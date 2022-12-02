@@ -1,0 +1,1001 @@
+atmNr,country,city,address,latitude,longitude,atmAmount
+1,Mexico,El Arenal,52203 Ridge Oak Junction,20.775698,-103.6951543,$251667.80
+2,China,Yangjiafang,85 Surrey Court,29.755129,111.370418,$104521.45
+3,Honduras,San Jerónimo,2218 Melrose Street,14.6276215,-87.6075294,$432299.40
+4,Indonesia,Karanglo,64 Boyd Point,-7.7623521,112.9848168,$110486.34
+5,Peru,Cuispes,73 Onsgard Alley,-5.9285726,-77.9438811,$38023.81
+6,Nigeria,Lere,7 Prairieview Lane,10.4145738,8.5721016,$176009.67
+7,South Africa,Trompsburg,6 Schurz Street,-30.0263293,25.7797078,$487211.42
+8,Croatia,Trilj,165 Fordem Terrace,43.6190257,16.7236298,$38732.98
+9,Burkina Faso,Nouna,4561 Orin Junction,12.7430244,-3.8553507,$471673.40
+10,Brazil,Brejo da Madre de Deus,3 Talmadge Trail,-8.1405443,-36.371496,$79978.51
+11,Russia,Marfino,969 Riverside Crossing,55.7039687,37.3835828,$115496.53
+12,Greece,Kallífytos,442 Stang Point,41.1734791,24.2141442,$238967.73
+13,Poland,Olszanica,9018 Browning Parkway,49.4715988,22.4496086,$307485.80
+14,China,Wangcheng,1330 Marcy Drive,28.353912,112.833836,$442874.54
+15,Macedonia,Gradec,50640 Sauthoff Place,41.8984166,20.905252,$284054.00
+16,Sweden,Eslöv,43477 Scott Pass,55.8431628,13.2986314,$262810.60
+17,Sweden,Stockholm,27 Sunfield Park,59.320622,18.055922,$485226.91
+18,Poland,Rzeszów,1 Dakota Place,50.0360024,22.0152079,$74672.13
+19,Indonesia,Wonokerso,6 Pierstorff Point,-7.035591,109.8975853,$147868.13
+20,South Africa,Pretoria,0423 Clarendon Pass,-25.8542944,28.1804515,$54456.70
+21,Philippines,Kawayan,04 Amoth Trail,14.7569624,121.0774147,$457355.82
+22,Ukraine,Kobleve,8817 Fairfield Street,46.6274254,31.1947408,$356163.60
+23,Indonesia,Kroya,2035 Scoville Point,-7.6331351,109.2474701,$248575.90
+24,Russia,Baklashi,78746 Debs Circle,52.222333,104.022,$477934.65
+25,Lithuania,Daugai,1860 Comanche Center,54.36667,24.33333,$261935.27
+26,Nigeria,Maiyema,60 Longview Drive,12.0805088,4.3693604,$361856.85
+27,Russia,Sut-Khol’,682 Village Place,51.40698,91.29244,$71896.95
+28,Morocco,Tabouda,5 Tomscot Road,34.7220005,-5.1441842,$342314.40
+29,Indonesia,Jorok Dalam,44351 Oxford Pass,-8.3980126,117.1470637,$343171.83
+30,Czech Republic,Moravský Beroun,2293 Ruskin Pass,49.7937399,17.4421225,$34526.47
+31,Thailand,Kaset Sombun,48308 Grayhawk Lane,16.2426241,101.9348069,$317757.49
+32,Russia,Dal’neye Konstantinovo,12 Brickson Park Pass,55.8071267,44.086347,$376486.95
+33,Nigeria,Katsina-Ala,0 Maple Plaza,7.1657856,9.2841023,$494051.14
+34,Russia,Gorodets,5087 Maple Wood Street,56.7577875,43.5378796,$474676.27
+35,Nigeria,Vom,8097 Roxbury Junction,9.7375987,8.8087151,$321217.45
+36,Saudi Arabia,Farasān,05454 Bartelt Trail,16.701895,42.120984,$226110.57
+37,Indonesia,Waerana,14 Mayer Center,-8.4766365,119.8805782,$162491.81
+38,Indonesia,Sangkalputung,6 Utah Place,-7.2268363,112.7286573,$179800.01
+39,Indonesia,Maredakamau,451 Calypso Plaza,-9.435,119.1866,$40443.75
+40,Portugal,Quintã,960 Burrows Circle,41.5464241,-8.2915385,$433091.37
+41,Czech Republic,Horní Jiřetín,83 South Hill,50.5702189,13.5166536,$316134.71
+42,Sweden,Lidingö,3453 Shoshone Lane,59.36296,18.1468001,$15205.99
+43,Russia,Smolyaninovo,0513 Mesta Crossing,43.3222143,132.4125243,$389978.71
+44,Canada,Saint-Bruno-de-Montarville,15 Brickson Park Parkway,45.5257774,-73.3436918,$448892.99
+45,Azerbaijan,Quba,47760 Eliot Alley,41.3643024,48.5260928,$92185.76
+46,Norway,Oslo,17 Green Ridge Drive,59.8787345,10.7810283,$269533.17
+47,Philippines,De la Paz,4 Mayer Trail,14.6135888,121.0957927,$471091.96
+48,North Korea,Sinmak,1 Hauk Parkway,38.4215487,126.2332502,$313643.24
+49,China,Xingren,34042 Transport Way,25.435183,105.186237,$118626.74
+50,Greece,Mirsíni,45 4th Trail,37.9209684,21.2374124,$356314.21
+51,Croatia,Oštarije,5 Buena Vista Circle,45.2256179,15.274715,$51415.24
+52,New Caledonia,Fayaoué,26759 Northland Way,-20.6537477,166.5339616,$437947.78
+53,Kazakhstan,Tasböget,218 5th Hill,44.7735327,65.5544515,$418299.89
+54,Colombia,Pelaya,62 1st Plaza,8.688031,-73.666377,$230975.39
+55,Japan,Ureshino,73510 Thackeray Crossing,35.8559579,139.5223619,$70967.68
+56,China,Jiaoqiao,325 Eagan Point,28.759126,115.856121,$398492.02
+57,Sweden,Luleå,34957 Londonderry Circle,65.855827,22.4952072,$459074.38
+58,Indonesia,Pitai,2531 Northfield Terrace,-10.01236,123.630501,$465065.05
+59,Indonesia,Cikadu,79 Claremont Way,-7.2929068,107.2666396,$413550.18
+60,Japan,Hondo,1429 1st Avenue,35.3078775,136.6447089,$56773.48
+61,China,Fengyang Fuchengzhen,000 Corben Hill,32.871671,117.56024,$312871.74
+62,New Zealand,Richmond,2492 Brentwood Court,-41.3336941,173.1927874,$229956.64
+63,Albania,Novoselë,48 Eliot Junction,40.6230031,19.4690444,$383491.46
+64,China,Zilang,33 Merchant Avenue,27.301177,105.537179,$329512.46
+65,Sweden,Järfälla,936 Northfield Lane,59.4018083,17.8046531,$81708.42
+66,Portugal,Pobral,24 Erie Road,38.9254193,-9.3894213,$275171.69
+67,Madagascar,Mananjary,3895 Declaration Drive,-21.2245142,48.3464426,$134009.37
+68,Ukraine,Kvasy,290 Esch Avenue,48.1495982,24.2824443,$134156.29
+69,Indonesia,Simpang,1 Ridge Oak Lane,-1.259553,104.100502,$138495.27
+70,Brazil,Pará de Minas,15 Crest Line Crossing,-19.8552965,-44.6113601,$417852.48
+71,United States,Huntsville,9 Onsgard Road,34.7299999,-86.59,$97267.68
+72,China,Fulu,2274 Clove Terrace,52.3716937,4.8925949,$25283.63
+73,China,Xinghua,1 Upham Terrace,32.910459,119.85254,$80048.08
+74,Guatemala,Comitancillo,48 Kropf Pass,15.08333,-91.71667,$170154.08
+75,Macedonia,Srbica,39 Troy Trail,41.58806,21.03111,$404566.99
+76,Indonesia,Sukamaju,31020 Daystar Trail,-6.4185424,106.8502879,$407351.87
+77,United States,Huntington Beach,0 Bellgrove Pass,33.6781963,-118.0127534,$352284.31
+78,Russia,Severoural’sk,2071 Hovde Parkway,60.1518638,59.9684485,$102098.48
+79,Tunisia,Zarzis,90027 Rockefeller Drive,33.5041035,11.0881494,$75650.12
+80,Colombia,Momil,106 Larry Plaza,9.239504,-75.6767349,$183132.91
+81,Armenia,Byuravan,55 Lakewood Gardens Avenue,40.0150745,44.5191627,$217761.64
+82,Portugal,Paço,3590 Clemons Center,41.3469244,-8.1451415,$51005.93
+83,Finland,Inari,17926 Burrows Way,63.3030414,30.9967709,$134031.33
+84,Ukraine,Perehonivka,1 Johnson Lane,48.534282,30.5234909,$216843.82
+85,Indonesia,Sumurgayam,18253 Ilene Alley,-6.888394,112.3307965,$417740.45
+86,Colombia,Floresta,4 Gerald Crossing,5.8330136,-72.9342451,$43950.85
+87,Peru,Maranura,5 Green Ridge Terrace,-12.94844,-72.667999,$352622.47
+88,Peru,Usicayos,3 Oak Circle,-14.1254679,-69.9661586,$154754.54
+89,Peru,Maca,91981 Helena Plaza,-15.6418418,-71.7674379,$492691.81
+90,Japan,Hakodate,01 Golf View Drive,41.8038684,140.7289269,$258075.69
+91,Peru,Paccha,8 Oriole Crossing,-11.8532073,-75.508016,$393784.36
+92,Afghanistan,Kai,5419 Heffernan Plaza,36.783333,66.65,$422915.02
+93,China,Hecheng,38 Debra Pass,27.578926,110.040315,$167009.66
+94,Peru,San Pablo,1 Oneill Place,-7.1143481,-78.8226909,$342592.33
+95,Portugal,São Paio de Seide,1363 2nd Court,41.399671,-8.4737713,$169161.98
+96,Pakistan,Risālpur,3123 Emmet Point,34.0724454,72.0577733,$24067.30
+97,Argentina,Deán Funes,2 Hooker Way,-31.3927967,-64.2545133,$119004.02
+98,Argentina,Villa Carlos Paz,7663 Amoth Plaza,-31.413822,-64.485902,$274425.32
+99,China,Yinjiaxi,85717 Oriole Plaza,29.135219,110.4185,$434977.63
+100,Canada,Chambly,2 Gina Lane,45.4399116,-73.2875277,$66052.90
+101,Sweden,Laholm,29550 John Wall Trail,56.5006765,13.0587651,$396379.17
+102,Germany,Kiel,15074 Warner Lane,54.3418823,10.1150681,$371497.74
+103,Ireland,Donabate,960 School Road,53.4855448,-6.1544115,$270298.00
+104,Japan,Hachinohe,1 Tennessee Crossing,40.2328952,141.2968609,$353642.17
+105,Peru,Conchopata,274 Gina Hill,-13.1612425,-74.2152331,$146348.85
+106,China,Daxi,8379 Iowa Avenue,24.1092009,117.1199596,$306469.02
+107,Czech Republic,Bzenec,74 Bartelt Hill,48.9486344,17.2848785,$116276.33
+108,Portugal,Pontinha,78735 Union Court,38.7797038,-9.217191,$396468.61
+109,Brazil,Diadema,26178 Lighthouse Bay Point,-23.6818396,-46.620967,$221217.41
+110,China,Yongping,7273 Buhler Circle,25.464681,99.541236,$132733.23
+111,Japan,Nichinan,46 Hallows Drive,31.5612018,131.34858,$99272.43
+112,China,Shenzhong,20409 Reinke Junction,22.543096,114.057865,$17286.65
+113,Honduras,San Nicolás,1816 Kedzie Pass,14.9415552,-88.3263603,$469994.03
+114,Yemen,Al Khamīs,2 7th Hill,15.18533,43.51122,$490184.83
+115,Peru,San Pablo,9997 Spohn Junction,-7.1143481,-78.8226909,$387910.15
+116,Nigeria,Shagamu,46 Ridgeview Park,6.8322014,3.6319131,$42478.60
+117,Russia,Nikolayevsk,55 Coolidge Street,53.149977,140.6634789,$120536.04
+118,Colombia,Palocabildo,322 Union Pass,5.119358,-75.023736,$378374.00
+119,Russia,Ust’-Ulagan,15916 Jana Lane,50.63258,87.96046,$292476.71
+120,Russia,Rybatskoye,631 6th Center,59.834171,30.5188521,$14659.27
+121,Malaysia,Kota Kinabalu,7914 Birchwood Parkway,5.9840985,116.0761121,$193560.23
+122,China,Gaoping,6903 Lillian Terrace,35.797997,112.92392,$301573.90
+123,Indonesia,Karangharjo,27 Tennessee Drive,-6.7050629,111.6198661,$475656.34
+124,Ecuador,Samborondón,53 Sachs Avenue,-1.9606263,-79.727151,$200653.55
+125,China,Xinzhou,08983 Bartillon Crossing,38.416663,112.734174,$438340.84
+126,Russia,Bayangol,5 Maple Trail,50.689974,103.4524989,$91002.94
+127,Yemen,Sāh,7 Village Pass,15.479529,44.2166214,$281753.77
+128,Greece,Methóni,7710 Bunting Pass,36.8199022,21.7063018,$301091.00
+129,Colombia,Chinú,16944 Bartelt Road,9.0039801,-75.3645369,$111681.96
+130,Indonesia,Seraya,16060 Rieder Hill,-8.412098,119.866554,$395677.16
+131,China,Banqiao,5258 Ridge Oak Point,35.4937018,110.3838909,$73169.39
+132,China,Dacun,21 Towne Plaza,34.645233,119.248149,$346400.71
+133,France,Le Mans,182 Di Loreto Place,47.9956173,0.1924459,$248631.46
+134,China,Baizhang,15790 Cherokee Junction,31.918232,119.976948,$433784.22
+135,Indonesia,Batang,5 Rieder Parkway,-7.0392183,109.9020509,$331157.98
+136,Uganda,Kyankwanzi,71174 Superior Pass,1.2061176,31.8164031,$360611.03
+137,Botswana,Francistown,60 Jay Court,-21.1661005,27.5143603,$334896.99
+138,China,Hongling,53491 Comanche Parkway,22.54921,114.103143,$56348.79
+139,Canada,Mascouche,76 Merrick Crossing,45.7055658,-73.6072341,$153583.52
+140,Finland,Kokemäki,9 Bonner Crossing,61.2022597,22.2731105,$397784.19
+141,Indonesia,Karangwaru,14 Garrison Road,-7.7736143,110.3643938,$191220.16
+142,Ecuador,Latacunga,0626 Cascade Trail,-0.931556,-78.60585,$166485.30
+143,Mexico,Los Pinos,01161 Delladonna Lane,19.3387759,-99.1497466,$285290.22
+144,China,Hong’an,879 Daystar Drive,31.288153,114.618236,$177131.49
+145,Ghana,Akim Swedru,663 Union Place,5.8925146,-1.0155385,$498833.80
+146,China,Luci,2 Forster Circle,26.853097,109.386371,$114323.96
+147,Sweden,Saltsjö-Boo,8549 Coolidge Center,59.324761,18.2730402,$378761.28
+148,Indonesia,Pasirjaya,4990 Utah Place,-6.1788812,107.5209304,$418515.81
+149,China,Guizi,099 Dorton Circle,35.024634,110.99742,$36191.53
+150,Russia,Zaymishche,06822 Saint Paul Drive,51.6591155,39.0641146,$352891.88
+151,Indonesia,Duko,750 Nelson Hill,-6.8775205,115.2807951,$70374.73
+152,Niger,Tessaoua,5861 Mifflin Hill,13.7558622,7.986535,$426892.96
+153,Sweden,Örebro,409 8th Drive,59.2375852,15.1301177,$110882.09
+154,Botswana,Letlhakeng,1 Annamark Lane,-24.097317,25.0288051,$27849.07
+155,Indonesia,Padasuka,2 Eliot Alley,-6.9042641,107.6474283,$72082.33
+156,Philippines,Santa Lucia,24561 School Junction,17.1056791,120.4557309,$224924.11
+157,Philippines,Kanlagay,24 Rockefeller Trail,5.87568,121.29146,$370284.05
+158,Russia,Choya,304 Farmco Lane,52.0108,86.5467,$253228.71
+159,Gabon,Oyem,5169 Katie Terrace,1.5991751,11.5759672,$195557.71
+160,Tanzania,Kihurio,54 Valley Edge Trail,-4.4654444,38.0750461,$179938.48
+161,Japan,Hatogaya-honchō,6269 Hazelcrest Pass,35.8325673,139.7424494,$388736.35
+162,Philippines,Lipahan,670 Forest Park,13.8345621,121.3967768,$233654.87
+163,Albania,Golem,728 Shasta Circle,41.2311557,19.5449078,$319959.84
+164,Argentina,Quitilipi,1905 Montana Road,-26.883247,-60.216667,$403793.50
+165,China,Shengci,7 Sachtjen Alley,28.574298,105.700019,$424952.10
+166,Indonesia,Kalumpang,7277 Mifflin Terrace,-5.667322,119.648399,$308836.36
+167,China,Xikou,1 Kipling Place,29.689847,121.28259,$115835.51
+168,Canada,Kerrobert,8 Debs Circle,51.91682,-109.13479,$154144.78
+169,France,Paris 15,3 Stephen Way,48.8466523,2.2582125,$482914.15
+170,Japan,Takamatsu-shi,3476 1st Hill,34.2872962,133.9508311,$209956.35
+171,Bosnia and Herzegovina,Novi Travnik,6302 Jana Parkway,44.1748191,17.6634251,$163625.62
+172,Indonesia,Sembungan Kidul,58 Jenna Street,-7.0054807,112.5118443,$326512.89
+173,China,Gaoqiao,13766 Melvin Crossing,31.364902,108.249509,$124995.36
+174,Ukraine,Luzhany,41106 Corry Street,48.3627105,25.7753797,$324158.45
+175,Croatia,Varaždin,657 Lyons Park,46.305746,16.3366066,$191567.55
+176,Ukraine,Pavlivka,80 Pennsylvania Way,50.6211008,24.4598077,$10487.32
+177,Portugal,Covão,06 Basil Park,40.0341373,-8.41643,$248398.22
+178,United States,Atlanta,4 Ridge Oak Terrace,33.9253024,-84.3857442,$99398.66
+179,Tanzania,Makanya,13452 Scott Trail,-4.3589834,37.8220414,$197670.42
+180,Thailand,Ratchathewi,6 Bultman Court,13.7544241,100.5340482,$50052.11
+181,Ivory Coast,Sakassou,2931 Crowley Parkway,7.4445908,-5.2841177,$315708.84
+182,Peru,Obas,9927 Gateway Trail,-9.771006,-76.6613239,$323756.91
+183,Jordan,Jarash,0461 Tomscot Hill,32.2746515,35.8960765,$114780.65
+184,China,Xinsheng,20 Green Place,31.029897,105.220236,$136826.64
+185,South Sudan,Kajok,7 Nancy Park,8.303998,27.993441,$449602.85
+186,Peru,Breu,990 Delladonna Circle,-9.483333,-72.716667,$136784.53
+187,Russia,Tovarkovskiy,034 Kim Center,53.6923042,38.1938089,$231229.37
+188,Finland,Pieksämäki,73 Fordem Court,62.2666019,27.1252002,$38363.88
+189,Ukraine,Novohrad-Volyns’kyy,4 Express Alley,50.5860203,27.6363775,$114250.77
+190,Colombia,Caramanta,7712 Laurel Junction,5.5615409,-75.6091696,$384055.06
+191,Sweden,Katrineholm,47154 Del Mar Way,58.9867399,16.1955511,$418432.01
+192,Guatemala,San José,7 Meadow Vale Hill,16.9633521,-89.9262925,$149486.03
+193,Philippines,Del Rosario,4 Kropf Alley,13.2944036,123.483279,$499675.40
+194,Russia,Plavsk,0432 Ohio Circle,53.7111077,37.29209,$310945.67
+195,Argentina,Chavarría,49993 Kedzie Street,-34.7121944,-58.6285183,$414480.88
+196,Ireland,Ferbane,90208 Hoepker Hill,51.8862378,-8.4824714,$222084.52
+197,Philippines,Consolacion,787 Arrowood Street,10.3753838,123.9555544,$85329.36
+198,Iran,Mākū,6 5th Street,39.2956209,44.5141851,$264051.70
+199,Czech Republic,Lenešice,4055 Hallows Crossing,50.3789576,13.751438,$343861.66
+200,Indonesia,Ketapang,98 Hintze Crossing,-1.5697615,110.5215459,$432382.51
+201,Senegal,Waoundé,8878 Ridge Oak Alley,15.2699767,-12.8658649,$385872.82
+202,China,Jiahu,9706 Becker Road,33.612843,113.667436,$427016.32
+203,Indonesia,Danirai,74166 Northland Avenue,-10.573164,121.738421,$235507.81
+204,Canada,Nipawin,7763 Dorton Alley,53.36678,-104.00092,$312556.63
+205,Czech Republic,Vladislav,559 Claremont Park,49.2101697,15.9883033,$434636.70
+206,Nigeria,Ugbokpo,93 Daystar Crossing,7.679352,7.9266015,$316910.77
+207,China,Wengyang,6944 Goodland Court,26.893368,112.572018,$207604.36
+208,Philippines,Cervantes,2 Atwood Road,14.4712676,121.0441201,$11283.54
+209,France,Fréjus,056 Merry Parkway,43.4320181,6.7329389,$387802.25
+210,Peru,Chojata,60 Pierstorff Court,-16.4,-70.733333,$404684.07
+211,Venezuela,Zea,91 Delaware Park,8.3802672,-71.7844893,$71471.51
+212,Kazakhstan,Kīevka,09 Prairie Rose Parkway,50.2603928,71.5485944,$107051.48
+213,Philippines,Jabonga,45997 Havey Road,9.329496,125.554433,$311215.89
+214,Armenia,Kasakh,533 Dahle Park,40.2355256,44.4514419,$102575.36
+215,Panama,Capira,6166 Moulton Hill,8.7600869,-79.8576828,$147006.41
+216,New Zealand,Richmond,5 Debs Lane,-41.3336941,173.1927874,$424258.27
+217,China,Sanxi,3333 Marcy Plaza,37.2425649,111.8568586,$280568.38
+218,Sweden,Stockholm,0112 Thompson Pass,59.31257,18.0626161,$313038.26
+219,Mongolia,Buga,4444 Anzinger Park,48.9479951,90.0133872,$395763.12
+220,China,Huxi,56 Stephen Lane,29.176523,120.390932,$46940.24
+221,Pakistan,Dadu,95 Emmet Park,26.732065,67.786348,$408653.40
+222,China,Panjiang,37 Mcbride Avenue,25.085589,104.8951,$344872.90
+223,South Africa,Harding,66 Sugar Junction,40.7392836,-73.9887809,$6590.41
+224,Japan,Yamaguchi-shi,2 Schurz Terrace,34.0899029,131.3980655,$276420.88
+225,Indonesia,Sukasada,8 Mendota Alley,-8.1928129,115.1177654,$233107.86
+226,China,Leigu,0176 Roxbury Terrace,31.774247,104.432024,$172491.74
+227,Afghanistan,Shahrak,6 Vidon Avenue,34.016449,64.5266446,$378432.61
+228,China,Danzi,3222 Everett Crossing,44.573753,129.627161,$202107.04
+229,China,Houping,4746 Towne Drive,26.608357,118.481377,$36345.25
+230,Peru,Lagunas,190 Sutteridge Place,-5.2368931,-75.6557206,$106783.59
+231,Ukraine,Zolochiv,0290 Schlimgen Center,49.80941,24.901371,$490946.05
+232,Poland,Włocławek,60786 Acker Court,52.6446193,19.0339855,$203121.66
+233,Poland,Bardo,89555 Barnett Circle,50.50505,16.74043,$345844.45
+234,Greece,Elefsína,12396 Donald Court,38.0412749,23.5418125,$482561.90
+235,Panama,Puerto Obaldía,80758 Portage Park,8.6663907,-77.420826,$82660.59
+236,Libya,Sirte,902 Kingsford Hill,31.189689,16.5701927,$74052.40
+237,Canada,Hantsport,7 Scoville Plaza,45.06685,-64.16544,$307240.59
+238,Japan,Takayama,4914 Sage Junction,38.0244455,140.0946079,$255428.88
+239,Ethiopia,Nazrēt,0 Maple Court,8.5263486,39.2583293,$481923.50
+240,Russia,Sasovo,1 Debra Crossing,54.356424,41.9194126,$416364.46
+241,Iraq,Nāḩiyat Hīrān,09911 5th Plaza,36.27815,44.49332,$206270.95
+242,Philippines,Tiwi,270 Sheridan Street,13.4570619,123.6791749,$333295.54
+243,Poland,Jelcz,67863 Columbus Street,50.4465359,19.894509,$438986.79
+244,Zambia,Kalabo,2 Tennessee Center,-15.1689352,22.4291464,$214838.90
+245,China,Tunguang,89 Kim Pass,29.722611,118.339653,$231195.22
+246,Russia,Novotroitskaya,745 Portage Court,45.2981711,41.5285717,$11042.50
+247,Brazil,Tonantins,21807 Barnett Plaza,-2.7915832,-67.6662231,$267048.88
+248,France,Saint-Malo,7166 Kinsman Trail,48.6360664,-2.0280739,$40145.65
+249,Czech Republic,Liběšice,982 Hazelcrest Drive,50.3448824,15.3606459,$424126.11
+250,China,Jiangkou,489 Golden Leaf Parkway,27.69965,108.839557,$62156.95
+251,China,Linpu,23 John Wall Lane,30.045109,120.249049,$114600.34
+252,China,Shijing,79663 Scott Plaza,24.625561,118.431541,$172383.13
+253,China,Bahui,893 Florence Place,40.934156,123.2064649,$441552.13
+254,China,Xin’an,01623 Lerdahl Way,34.728584,112.132488,$257658.22
+255,Indonesia,Srunikrajan,3652 Eastlawn Lane,-8.2296365,111.4526032,$32829.88
+256,Russia,Vardane,2 Merchant Drive,43.7477413,39.5308638,$430587.52
+257,Russia,Molochnoye,03 Reinke Place,59.2896794,39.6767475,$254209.82
+258,Sweden,Stockholm,019 Autumn Leaf Place,47.0203207,-68.1435046,$234161.09
+259,Armenia,Dalarik,716 Meadow Valley Road,40.2272711,43.8717749,$11923.76
+260,Sweden,Järfälla,880 Cardinal Lane,59.4205168,17.8434702,$254199.81
+261,Nepal,Dharān Bāzār,6 Sutteridge Street,26.7943861,87.2817272,$280200.27
+262,Japan,Toride,9 Barnett Parkway,35.8886106,140.0636977,$487601.61
+263,Russia,Nizhniy Tagil,83068 Village Parkway,57.9093249,60.166299,$383587.56
+264,Syria,‘Uqayribāt,64894 Sheridan Road,35.03566,37.475109,$243740.61
+265,Japan,Kawage,21 Mesta Drive,35.0098555,135.4825317,$276352.41
+266,Russia,Pesochnoye,8215 International Park,60.1161159,30.2124344,$37020.39
+267,Portugal,Vila Alva,58920 Truax Junction,38.2498796,-7.9000381,$478923.51
+268,Niger,Maïné Soroa,9016 Nova Pass,13.2143917,12.0289902,$482971.86
+269,Russia,Nurlat,02 Kim Court,54.3231922,50.8118074,$372286.35
+270,Sweden,Landvetter,972 Transport Junction,57.6866936,12.2116683,$267642.54
+271,Russia,Krasnogorskiy,11 Anhalt Trail,56.1531877,48.3208097,$315176.64
+272,Serbia,Bojnik,543 Parkside Court,43.0173794,21.7228156,$245910.28
+273,Yemen,Al Qurayshīyah,33635 Hermina Circle,14.5122,44.85358,$472388.83
+274,Japan,Motegi,7 Oneill Avenue,32.968121,130.6358305,$12774.41
+275,Norway,Oslo,83163 Summit Center,59.9374398,10.7160051,$269945.79
+276,China,Meizhuang,585 Burrows Hill,37.366903,114.926383,$292747.83
+277,Azerbaijan,Shamkhor,2268 Lyons Hill,40.8288144,46.0166879,$198919.26
+278,Slovakia,Bratislava,670 Michigan Alley,48.1997412,16.983641,$58208.05
+279,China,Wuquan,8 Quincy Center,21.441808,110.778411,$499260.58
+280,Thailand,Ban Haet,9 Talmadge Alley,13.7836468,100.4842054,$378622.54
+281,Sweden,Stockholm,925 Redwing Court,59.3198495,18.0754293,$88066.52
+282,China,Fangbu,0 Leroy Center,31.750277,119.574986,$471423.76
+283,Brazil,Capim Grosso,142 Service Drive,-11.3801768,-40.0068953,$485716.65
+284,Poland,Siedlce,596 Havey Crossing,49.687421,20.7765351,$463841.87
+285,Ukraine,Kolomak,0 Hintze Plaza,49.8408677,35.3145782,$138702.58
+286,China,Heichengzi,08 Holy Cross Parkway,43.179594,123.855668,$353357.00
+287,Philippines,Davila,7154 Killdeer Parkway,14.5675752,121.0144105,$229094.54
+288,United States,Madison,14 Marquette Circle,43.0745339,-89.3805579,$400151.56
+289,Japan,Imari,38 Clyde Gallagher Avenue,33.2731435,129.9324494,$311522.16
+290,Mexico,Independencia,9628 Kropf Pass,32.5124846,-116.8557985,$332129.89
+291,Russia,Khilok,26737 Dryden Plaza,51.3592968,110.4498687,$245675.27
+292,Argentina,Retiro,792 Hanson Parkway,-34.8212065,-58.4351387,$184808.60
+293,Guam,Agat Village,3 Lindbergh Center,13.38855,144.65852,$318443.28
+294,Philippines,Damawato,1 Schiller Alley,6.7885037,124.8730516,$93826.76
+295,Philippines,Santa Teresa,9164 Hagan Park,10.4373128,121.9944005,$99030.15
+296,Russia,Ochër,71733 Mandrake Point,57.8721328,54.7288281,$176105.92
+297,Philippines,Bayambang,5 Novick Crossing,15.8127,120.4557,$411167.74
+298,Kyrgyzstan,Uzgen,74376 7th Crossing,40.767421,73.3030715,$245182.56
+299,China,Baiyang,9964 Sunfield Park,34.540852,109.44096,$368944.44
+300,Dominican Republic,Monte Plata,52434 Kedzie Alley,18.8239558,-69.7403955,$263253.14
+301,Panama,El Cortezo,8 Mcguire Parkway,8.3487476,-80.5924449,$349661.84
+302,Indonesia,Banjar Dukuh,0158 Vahlen Park,-7.3552614,108.5693704,$210179.14
+303,Croatia,Predavac,8901 Fairfield Plaza,45.9380817,16.7806658,$404144.27
+304,Indonesia,Gandusari,5234 Corscot Drive,-8.1264039,111.7018452,$269035.38
+305,South Africa,Nelspruit,11003 5th Point,-25.50065,30.9136062,$134604.60
+306,United States,Hartford,15 Lotheville Center,41.76,-72.69,$113911.59
+307,Greece,Thívai,5172 Thompson Terrace,38.322579,23.3204309,$475944.73
+308,China,Pangguang,523 Havey Point,31.3657303,121.3729026,$277123.10
+309,China,Dayuan,3100 West Crossing,23.2654395,113.3547602,$235332.37
+310,Cyprus,Meniko,55727 Gateway Crossing,35.1148773,33.1435877,$284109.60
+311,Sweden,Eskilstuna,4 4th Point,59.397367,16.4816867,$206637.87
+312,Albania,Fier-Çifçi,038 Mccormick Street,40.71667,19.56667,$106341.51
+313,Greece,Peraía,425 Talisman Way,40.5004933,22.9246383,$264790.83
+314,Greece,Irákleia,2 Utah Trail,41.1837502,23.2810087,$408006.19
+315,United Kingdom,Denton,4020 Schurz Point,53.455203,-2.114613,$40087.49
+316,Thailand,Samut Songkhram,2694 Reindahl Circle,13.3601931,99.9129845,$384532.94
+317,Peru,Paruro,46754 Doe Crossing Pass,-13.7615069,-71.84898,$92420.50
+318,Macedonia,Poroj,97577 Jackson Road,42.0288112,20.9969544,$479351.76
+319,Finland,Kronoby,25169 Mockingbird Street,63.7193825,23.0160462,$85128.44
+320,Luxembourg,Moutfort,0488 Northfield Place,49.589121,6.257054,$246344.37
+321,Portugal,Arrabal,98694 Eagan Drive,39.7034754,-8.7316491,$449228.69
+322,China,Puyang,1937 Ilene Lane,35.761829,115.029215,$329823.42
+323,Brazil,Riachão das Neves,47 Cody Lane,-11.5527175,-45.2243578,$20283.45
+324,Serbia,Jermenovci,63 Sachs Avenue,45.2011955,21.0119834,$277734.04
+325,Indonesia,Tegalsari,2552 Dottie Place,-8.401854,114.118103,$333851.20
+326,Nigeria,Makoko,3733 Waxwing Lane,6.4990277,3.3880288,$347225.05
+327,China,Chenyangzhai,2544 Northport Junction,34.313074,108.715716,$394829.40
+328,China,Zhuxi,6125 Carpenter Way,32.318255,109.715304,$387570.93
+329,China,Huangtan,0 Thompson Pass,28.650072,121.261886,$347322.82
+330,China,Huanshan,15000 Duke Lane,29.714699,118.337521,$303465.72
+331,Ethiopia,Sendafa,0132 Farragut Point,9.1495559,39.0241756,$331533.94
+332,Poland,Ruda Śląska,3 Monument Pass,50.2650642,18.9033756,$308717.81
+333,Philippines,Calumpang,79283 Park Meadow Trail,14.6527027,121.0271174,$351559.63
+334,Russia,Mariinsk,4 Bartillon Point,56.2254132,87.7719548,$430595.66
+335,Ukraine,Koryukivka,5258 Johnson Terrace,51.7754831,32.2595792,$257900.21
+336,Armenia,Surenavan,1 Magdeline Junction,39.7992062,44.7723968,$132609.12
+337,Laos,Muang Xay,775 Messerschmidt Alley,20.690696,101.9861694,$92088.91
+338,Yemen,Ar Rawḑ,016 Maple Avenue,16.06145,44.81012,$190484.99
+339,Russia,Soloneshnoye,7835 Cordelia Junction,51.65991,84.3244979,$467429.84
+340,Egypt,Tanda,69 Service Point,27.6791846,30.7738154,$303559.50
+341,Brazil,Arapongas,4 Calypso Road,-23.4157731,-51.4264048,$376072.16
+342,Russia,Nevel’sk,64 North Lane,46.678613,141.8559579,$281607.90
+343,Thailand,Kaeng Khro,424 Fallview Center,16.1344075,102.2090224,$65350.51
+344,China,Shazhouba,80 Bay Lane,25.881342,116.00261,$365035.95
+345,Sweden,Göteborg,07 Saint Paul Junction,63.8223321,20.2753893,$54044.16
+346,Morocco,Imider,2 Service Place,31.3694559,-5.7905653,$276797.68
+347,Ukraine,Kotsyubyns’ke,5 Derek Parkway,50.4883784,30.3330935,$316559.23
+348,Ukraine,Savran’,34 Dixon Hill,48.1351158,30.077048,$176718.21
+349,Norway,Oslo,30196 Village Alley,59.9050895,10.7673005,$466598.39
+350,China,Gahe,489 Melody Avenue,31.051908,96.719767,$405592.71
+351,El Salvador,El Rosario,0622 5th Alley,13.4926528,-89.0251022,$195560.28
+352,Kosovo,Lluka e Eperme,01811 Fallview Plaza,42.5448774,20.3076276,$437642.45
+353,Colombia,Ubaté,970 Graceland Hill,5.312024,-73.818222,$285650.57
+354,Czech Republic,Lučina,7539 Kensington Road,49.7133875,18.4511722,$381039.85
+355,New Zealand,Porirua,04843 Blaine Pass,-41.1822198,174.8294181,$256980.24
+356,Syria,Akhtarīn,660 Grover Point,36.5098375,37.3373042,$183067.99
+357,Belarus,Zaslawye,8043 Vidon Drive,54.0006143,27.276841,$254172.95
+358,Philippines,Santa Cruz,4 North Street,13.0748879,120.7213113,$86819.61
+359,Ukraine,Kryva Hora,54 Talmadge Terrace,51.38494,30.19978,$463731.36
+360,Philippines,Mahaplag,04483 Roth Trail,10.6365464,124.9386692,$322537.18
+361,Brazil,Marco,05 Mosinee Center,-3.1865586,-40.2475694,$74680.81
+362,Indonesia,Weekombaka,5324 Scofield Place,-9.4852898,119.1736353,$361324.03
+363,Azerbaijan,Çobansığnaq,450 Sunnyside Circle,40.7531415,45.7400681,$326213.81
+364,Argentina,Las Higueras,5 Sloan Road,-37.9361202,-57.5552203,$189998.41
+365,Greece,Lykóvrysi,423 Iowa Court,38.067613,23.7804059,$491332.56
+366,Poland,Lubomierz,7 Basil Trail,51.0126464,15.510661,$367097.38
+367,Vietnam,Thị Trấn Tủa Chùa,13919 Morning Junction,21.856289,103.3413048,$459799.66
+368,Russia,Temizhbekskaya,2 Forest Run Point,45.3106092,41.0495422,$215274.41
+369,Indonesia,Nagasari,05 Village Plaza,-6.2851545,107.3168864,$263131.12
+370,Macedonia,Pehčevo,96 Jana Center,41.761923,22.887043,$217777.89
+371,Sweden,Jönköping,5713 Sloan Plaza,57.8014247,14.1454855,$392814.45
+372,Canada,Penticton,6595 Corry Point,49.4991381,-119.5937077,$259727.60
+373,China,Hedi,180 Mallard Avenue,34.393136,115.865746,$211497.07
+374,Iran,Alīgūdarz,33 Reindahl Place,33.4049794,49.6962428,$126311.19
+375,Poland,Ropa,883 Jana Alley,49.5733006,21.0597432,$213056.88
+376,Philippines,Malaga,4391 Oak Court,14.3758164,121.0390378,$195988.92
+377,Nepal,Besisahar,1 Grim Plaza,28.1962471,84.3857442,$28562.96
+378,Ukraine,Nyzhnya Krynka,0099 Northfield Plaza,48.1173081,38.1648822,$96528.95
+379,China,Gangbei,13 Mcbride Park,23.11153,109.57224,$67908.85
+380,Kyrgyzstan,Bazar-Korgon,664 Rutledge Circle,41.0285386,72.7392711,$402123.04
+381,Honduras,San José de Colinas,583 Sachtjen Drive,15.040667,-88.3020602,$142231.27
+382,Poland,Oleszyce,9034 Sutherland Avenue,50.1676885,23.0349969,$490149.41
+383,Ukraine,Kuty,2 Golden Leaf Drive,48.2629668,25.1738286,$173231.35
+384,China,Jianjiang,17 Muir Alley,24.781681,118.552365,$403867.22
+385,Sierra Leone,Pendembu,37579 Killdeer Road,8.0991923,-10.6956979,$299780.24
+386,China,Dingtou,8 Barby Pass,41.302157,123.7403542,$154096.87
+387,Thailand,Lahan Sai,7411 Merry Circle,14.4437531,102.8514837,$167175.68
+388,France,Nice,7110 Stoughton Center,44.0678168,6.9855112,$139519.19
+389,Japan,Ino,70638 Summer Ridge Alley,36.0444446,136.5160248,$438358.72
+390,Sweden,Solna,213 Lakewood Gardens Point,59.3634364,18.0099272,$402302.58
+391,Sweden,Borås,9 Corben Place,57.7117601,12.9075947,$60886.43
+392,United States,Baton Rouge,35416 Springview Way,30.372807,-91.1833043,$58015.92
+393,Indonesia,Kambingan,15 Continental Park,-8.0109832,112.700315,$60191.38
+394,China,Taiyangling,170 Loftsgordon Circle,33.026386,106.002647,$468455.20
+395,Mauritius,Cap Malheureux,40879 Cottonwood Court,-19.986874,57.6127424,$261563.02
+396,Nicaragua,San Jorge,161 Corben Park,11.4522433,-85.8050987,$321101.67
+397,Greece,Metsovo,65544 Rockefeller Alley,39.7702467,21.1828612,$160583.96
+398,China,Zangzhai,3739 Arizona Park,34.068191,113.870916,$376710.82
+399,Saudi Arabia,Al Jumūm,8 Texas Way,21.6474788,39.7137181,$198495.94
+400,Czech Republic,Moravský Písek,129 Granby Avenue,48.9901636,17.3326946,$172734.19
+401,Laos,Ban Nahin,89 Vidon Parkway,18.1811952,104.5451903,$109191.91
+402,Indonesia,Sindangjawa,65829 Rockefeller Center,-6.764566,108.4496053,$25654.35
+403,China,Lianzhou,34 Sherman Center,24.780966,112.377361,$339697.82
+404,Indonesia,Wates,94 Porter Alley,-7.893728,110.1434668,$307857.79
+405,Bangladesh,Netrakona,3866 Manufacturers Court,24.8500604,90.6387949,$57035.55
+406,Sweden,Överkalix,42 Lillian Place,66.2185015,23.0524409,$198791.92
+407,China,Shuangta,2 Del Mar Lane,41.565627,120.453743,$67231.64
+408,Uruguay,Sauce,9875 Dwight Center,-34.6488719,-56.0668126,$211533.17
+409,South Africa,Richmond,60 Forest Run Center,-31.3644769,23.9179589,$71348.23
+410,Philippines,Concepcion,363 Algoma Court,14.6688068,121.1138058,$446509.58
+411,China,Huangji,0 Moland Way,31.231521,121.45076,$73343.05
+412,Peru,Chinchaypujio,312 Pawling Avenue,-13.6332,-72.232262,$388708.90
+413,Indonesia,Rikitgaib,943 Erie Alley,4.1382779,97.286868,$74790.78
+414,Ireland,Virginia,19 Tomscot Point,53.377533,-6.2633149,$135430.40
+415,Colombia,Salamina,8 Barby Pass,10.4911049,-74.794526,$253542.95
+416,Poland,Krzyżowice,8 Randy Park,49.9899828,18.6926323,$24049.13
+417,Czech Republic,Darkovice,65 Tony Road,49.9365011,18.2190463,$381348.81
+418,Russia,Malinovoye Ozero,378 Green Ridge Point,51.6781161,79.7893754,$114847.21
+419,Honduras,Jocón,57260 Chinook Plaza,15.2904851,-86.9135745,$251895.32
+420,China,Zhangjiaji,9 Prairieview Crossing,29.117096,110.479191,$129090.64
+421,Denmark,København,3216 Manufacturers Trail,55.6658602,12.5482906,$498145.59
+422,Morocco,Taourirt,657 Center Avenue,34.3983716,-2.8935028,$178080.28
+423,Nicaragua,Tisma,906 Russell Park,12.0806213,-86.0198103,$156141.10
+424,China,Lanling,6 Fallview Alley,34.857149,118.07065,$299222.65
+425,Czech Republic,Hořice,69 Shelley Alley,49.3564315,16.6227158,$133733.85
+426,Ukraine,Stepanivka,02 Center Center,48.4518702,38.4948982,$315351.45
+427,Greece,Káto Glikóvrisi,49001 Hudson Street,36.8277257,22.7760837,$229688.73
+428,China,Liurenba,12 Eliot Center,29.93442,114.842366,$90791.37
+429,France,Carcassonne,904 Briar Crest Lane,44.346784,5.8855505,$360147.69
+430,Martinique,Fort-de-France,7 Park Meadow Circle,14.641514,-61.0512822,$231099.55
+431,United States,Pasadena,0 South Way,34.1349887,-118.1507494,$10209.77
+432,Portugal,Maganha,1 Grover Lane,41.3351832,-8.6022276,$451412.59
+433,Germany,Berlin,6425 Kim Street,52.5485032,13.2385645,$407532.01
+434,Brazil,Palmeira,223 Bashford Parkway,-27.574998,-50.1626664,$116044.24
+435,Philippines,Blinsung,50665 Northridge Trail,7.01806,124.18056,$487442.83
+436,Greece,Kými,69611 Buhler Crossing,38.636131,24.1027745,$409294.06
+437,Indonesia,Baratan,5704 Londonderry Hill,-8.1324515,113.7305569,$478921.46
+438,Indonesia,Druju,54969 Gerald Crossing,-8.2497955,112.673499,$315394.34
+439,Indonesia,Banjar Budakeling,4 Dryden Way,-8.2104974,114.9671388,$311902.60
+440,Sweden,Emmaboda,244 Eggendart Place,56.6032687,15.6253276,$114910.69
+441,Nigeria,Ikang,89832 Fairview Plaza,4.7922388,8.5295341,$367056.02
+442,Lithuania,Akademija (Kaunas),37 Randy Park,54.9082369,23.879755,$45210.10
+443,Philippines,Nagbalaye,38227 Summer Ridge Center,9.2524087,122.874409,$95618.05
+444,Portugal,Odivelas,134 Schmedeman Parkway,38.1678374,-8.1496483,$269398.98
+445,Botswana,Mogoditshane,26041 Memorial Center,-24.6131407,25.8731407,$141360.80
+446,Russia,Volokonovka,4 Monument Alley,50.4827,37.8563,$327821.70
+447,Libya,Masallātah,398 Spaight Road,32.5836375,14.0362587,$252766.29
+448,France,Lyon,3496 Merrick Circle,43.0429124,1.9038837,$79741.80
+449,Brazil,Barreiros,139 Corscot Road,-8.8325814,-35.2807624,$225865.36
+450,Ukraine,Rechka,41 Lerdahl Avenue,48.5902942,23.3746272,$385691.74
+451,China,Jianguo,985 Roxbury Parkway,39.909214,116.45252,$114979.36
+452,Thailand,Khok Sung,5 Aberg Trail,13.8156076,102.6675575,$433915.14
+453,France,Niort,4 Logan Pass,46.1839042,-0.4738335,$479647.64
+454,Mexico,Emiliano Zapata,0 Forster Road,17.7409147,-91.7660525,$126609.02
+455,Indonesia,Lampihung,130 Pepper Wood Crossing,-4.5585849,105.4068079,$375831.66
+456,Guatemala,La Reforma,13 Springs Alley,14.6050898,-90.5158438,$357574.47
+457,Portugal,Cortes,05312 Pleasure Point,39.7012988,-8.784267,$343917.31
+458,Canada,Kimberley,0001 Bobwhite Court,49.6885534,-115.9220734,$262462.49
+459,Brazil,Flores da Cunha,61406 Roth Avenue,-29.0303854,-51.2003761,$128906.29
+460,Brazil,Cruzeiro,958 Little Fleur Court,-22.573256,-44.9693894,$236309.74
+461,Indonesia,Kalde Panga,588 Coleman Parkway,4.5557,95.71508,$178662.60
+462,Russia,Ilek,34032 Hovde Terrace,59.954793,30.2145439,$46469.14
+463,China,Jingdezhen,764 Rieder Circle,29.268783,117.178443,$302221.13
+464,Finland,Kiukainen,4916 Waxwing Terrace,61.2320157,22.0614693,$434172.94
+465,Indonesia,Pakemitan,383 Susan Street,-6.9211461,107.6940475,$153164.50
+466,Serbia,Gornji Milanovac,5 Marcy Crossing,44.0207262,20.4633133,$262290.98
+467,France,Paris La Défense,97 Carey Point,48.890054,2.2372792,$125341.74
+468,Indonesia,Krajan Satu,4943 Kedzie Parkway,-7.3743397,110.2648159,$381711.18
+469,China,Yingcheng,076 Longview Place,30.92837,113.572707,$476505.19
+470,China,Zhouyuan,1 Veith Alley,37.355469,120.434071,$14929.12
+471,Gambia,Brikama,65 Vidon Trail,13.2747943,-16.6409198,$393428.94
+472,China,Wujian,734 Hayes Junction,31.138677,120.645158,$143633.30
+473,France,Évry,8 Westport Avenue,48.6277459,2.4381665,$360781.26
+474,Bangladesh,Panchagarh,314 Randy Hill,26.3237782,88.5167162,$52255.10
+475,Canada,Grand Bank,173 Surrey Drive,47.09995,-55.76504,$362551.66
+476,Venezuela,Sabana de Parra,960 Brown Court,10.1197024,-69.0393069,$386741.98
+477,Indonesia,Timur,012 Red Cloud Lane,-9.8627946,124.3310364,$77119.51
+478,Sweden,Uppsala,9 East Road,59.8509005,17.6300093,$214905.06
+479,Indonesia,Cilentung,06419 Fieldstone Alley,-6.3347209,105.9552997,$383225.22
+480,Syria,As Sab‘ Biyār,14 Bartillon Park,33.77974,37.68357,$196932.12
+481,China,Huadi,51 Merrick Pass,27.478357,120.088953,$305111.71
+482,Russia,Pushkino,87332 Reindahl Trail,52.1940358,104.246923,$298870.60
+483,Indonesia,Tawaran,59 Texas Court,-6.8952768,111.6124134,$348043.71
+484,Poland,Siemianowice Śląskie,99 Hoffman Center,50.3257904,19.0018119,$134481.94
+485,Guatemala,Pajapita,6 Spaight Point,14.7536759,-92.0269227,$293173.18
+486,Sweden,Östhammar,8 Golf View Avenue,60.2638215,18.4529131,$246507.75
+487,Benin,Abomey-Calavi,825 Dovetail Point,6.4503024,2.3468195,$440643.21
+488,China,Baocun,56173 Fairview Park,19.701143,110.242109,$461421.58
+489,China,Dazhigu,0 Bonner Park,39.10972,117.246625,$13800.28
+490,China,Baidian,8 Sachtjen Crossing,39.959953,116.298326,$207229.41
+491,China,Shuyuan,3195 Canary Drive,40.039342,116.260921,$70410.30
+492,China,Donggang,4 Buell Trail,39.863008,124.1527051,$382627.87
+493,Mexico,Buenavista,4 Kings Court,19.6267726,-99.2993504,$287243.82
+494,Brazil,Marechal Cândido Rondon,798 Bay Point,-24.7073654,-54.0688562,$263322.00
+495,China,Liangshan,05 Vidon Center,27.88157,102.267712,$176794.10
+496,Russia,Khasavyurt,59 Manitowish Road,43.3688739,46.5485537,$8650.47
+497,China,Beijiang,16781 Judy Plaza,23.9563274,113.1916737,$119496.60
+498,Indonesia,Lahat,1152 Debs Circle,-3.8008893,103.3587288,$306009.62
+499,Czech Republic,Jakartovice,46067 Marcy Junction,49.9114346,17.6628187,$279722.29
+500,China,Lingyuan,3 Express Lane,41.245445,119.4015739,$288906.25
+501,Indonesia,Bojongsari,76 Forest Junction,-6.3991308,106.7411559,$118107.62
+502,Indonesia,Geser,71 Pine View Place,-3.8847265,130.897445,$283917.03
+503,China,Yongning,1 Nelson Park,22.75839,108.487368,$135704.27
+504,Sweden,Oskarshamn,619 Mockingbird Way,57.2702863,16.4538847,$30237.22
+505,Mexico,Emiliano Zapata,781 Rowland Parkway,17.7409147,-91.7660525,$9756.18
+506,Uganda,Katakwi,1 Mayer Center,1.973103,34.0641419,$255732.41
+507,Russia,Kuanda,23264 Del Mar Lane,56.3289836,116.1168555,$429767.41
+508,Poland,Targanice,20 John Wall Point,49.8162832,19.3295966,$128853.11
+509,Poland,Drawno,8435 Spohn Terrace,53.21983,15.75932,$16228.51
+510,China,Hufang,64356 Donald Crossing,27.330904,117.044081,$372190.36
+511,Philippines,Ibaan,81 Derek Plaza,13.816877,121.131952,$246976.47
+512,Poland,Słubice,0638 Miller Road,52.354402,14.5610119,$77415.23
+513,China,Dongji,8 Elgar Crossing,30.190334,122.689752,$252779.59
+514,Indonesia,Bokor,4 Northridge Road,-8.0034823,112.7420274,$314781.73
+515,Indonesia,Sukatani,86 Riverside Road,-6.3917341,106.8856933,$309774.89
+516,Afghanistan,Ghazni,71333 Harper Way,33.5450587,68.4173972,$67567.14
+517,Brazil,Itaberaba,73 Village Green Circle,-12.5477492,-40.2271243,$279162.58
+518,Peru,Sacanche,2979 Sullivan Road,-7.081475,-76.702454,$367355.99
+519,Indonesia,Bangbayang,369 Portage Parkway,-6.8734228,107.074614,$138452.90
+520,Zambia,Luanshya,1101 5th Street,-13.1435017,28.4163103,$347549.30
+521,Belarus,Drahichyn,459 Nova Hill,52.1930413,25.1471719,$392518.35
+522,China,Tange Zhen,3589 Charing Cross Point,31.463475,120.649341,$215424.11
+523,China,Shatian,236 8th Place,22.919769,113.618216,$320007.75
+524,Colombia,Puerto Nariño,9 Merrick Drive,-3.7702,-70.38306,$406117.74
+525,Indonesia,Dampit Satu,5493 Badeau Avenue,-8.2288463,112.8015745,$76070.54
+526,Czech Republic,Lukavec,1683 Anniversary Junction,49.7517708,17.919916,$488515.54
+527,China,Leyuan,699 Garrison Parkway,18.144657,-94.4189829,$110034.49
+528,China,Bohou,81859 Bultman Avenue,19.88374,109.745545,$183467.76
+529,China,Pingshan,46 Blue Bill Park Road,22.691253,114.346251,$353608.88
+530,Indonesia,Ketapang,90 Heffernan Center,-1.5697615,110.5215459,$383108.93
+531,China,Shuangmiao,835 Transport Trail,35.708631,114.617827,$236949.09
+532,China,Zhanping,70036 Dorton Plaza,28.023893,116.263188,$91147.98
+533,China,Daying,3200 Superior Way,30.594336,105.236903,$483366.98
+534,China,Lüyang,324 Burrows Street,31.878735,117.26467,$445462.39
+535,United States,Dallas,22 Hoepker Hill,44.934021,-123.3072848,$64345.50
+536,Democratic Republic of the Congo,Mwene-Ditu,317 Corben Road,-7.0090256,23.4537973,$143187.01
+537,China,Jubao,6 Steensland Terrace,23.1216171,113.2694916,$12902.04
+538,China,Fenglu,359 Claremont Parkway,23.2082857,112.8295654,$276496.76
+539,Czech Republic,Zbraslavice,884 Bellgrove Trail,49.808516,15.1855959,$129186.59
+540,Japan,Iwamizawa,5 Golden Leaf Court,40.0611652,140.142219,$341241.83
+541,Ukraine,Baryshivka,3 Moland Place,50.350705,31.3188908,$196006.85
+542,Czech Republic,Vyškov,98112 Manley Crossing,49.3197453,17.0367923,$300734.03
+543,China,Dingcheng,4 Tomscot Terrace,39.928353,116.416357,$263037.74
+544,China,Aoqian,4 Anhalt Avenue,25.462752,119.849709,$130099.95
+545,Portugal,Pereiros,22 Kinsman Terrace,40.1676522,-8.4138349,$321235.37
+546,Croatia,Makarska,01 Shoshone Alley,43.2937769,17.0215239,$429103.90
+547,United States,Young America,38 Prentice Place,44.78,-93.91,$210845.09
+548,Philippines,Kaputian,85 Bowman Pass,7.0583573,125.7222954,$378746.69
+549,Bhutan,Tsimasham,16144 Valley Edge Hill,27.0522919,89.5756987,$58125.98
+550,China,Sanjinquan,0 North Place,39.099722,121.703208,$383952.14
+551,Sweden,Gävle,1 Vernon Alley,60.6985859,17.112779,$265105.77
+552,China,Pianling,013 Reinke Way,40.479895,123.170569,$169363.73
+553,Indonesia,Tebanah,2531 Ridge Oak Park,-6.9295423,113.2066909,$25256.34
+554,Russia,Dmitrov,2249 Arrowood Drive,56.2340628,37.5182622,$210949.45
+555,Libya,Banī Walīd,02130 Division Place,31.7975831,14.053676,$95275.55
+556,Peru,San Pablo,71876 Ruskin Place,-7.1143481,-78.8226909,$274058.01
+557,China,Shiqiao,8 Hanover Hill,22.948016,113.366904,$489353.08
+558,China,Dawan,396 Iowa Parkway,39.917717,116.418465,$360447.23
+559,Russia,Volzhsk,5012 Redwing Lane,55.8876933,48.3613188,$23408.63
+560,Philippines,Tignoan,0 Golf Trail,14.5682829,121.6224914,$177664.94
+561,Philippines,Mababanaba,359 Doe Crossing Center,15.5027303,120.5129814,$91311.65
+562,Indonesia,Rapas,0451 Knutson Center,-2.1653279,132.324948,$20156.94
+563,Brazil,Espinosa,931 Fallview Circle,-14.7710261,-43.0971625,$295020.54
+564,Indonesia,Ngrejo,83891 Sundown Parkway,-8.2412718,112.0744643,$72954.65
+565,China,Tongqiao,81787 Veith Junction,23.035191,114.300299,$114762.74
+566,Argentina,Las Parejas,7616 Loftsgordon Terrace,-34.5872079,-58.494505,$361513.96
+567,Indonesia,Lokea,890 Annamark Center,-8.3278028,122.9796796,$340557.50
+568,China,Liutangting,19411 Randy Avenue,27.36017,111.581975,$31776.23
+569,Croatia,Tučepi,5123 Summerview Court,43.285793,17.0893798,$306514.07
+570,Mexico,Guadalupe Victoria,23124 Cordelia Center,20.5359964,-103.4325178,$303863.22
+571,Brazil,Almenara,83478 Ramsey Pass,-16.1796844,-40.6953223,$484755.79
+572,Czech Republic,Jindřichov,94 Northland Parkway,50.0957911,16.984906,$397415.69
+573,United States,New Hyde Park,12476 Badeau Avenue,40.7419285,-73.6833119,$431309.34
+574,Nepal,Dhankutā,7 Pepper Wood Terrace,26.9834552,87.3214908,$70090.85
+575,Colombia,San Gil,2341 Golden Leaf Street,6.5905816,-73.1526623,$152331.10
+576,Russia,Talitsa,74849 Orin Way,56.8810476,60.0156754,$24786.48
+577,Indonesia,Maronge,45 Meadow Valley Place,-8.7287229,117.666952,$203990.19
+578,China,Jiebu,64526 Little Fleur Pass,29.097342,91.847388,$448395.22
+579,Russia,Krutaya Gorka,162 Michigan Center,55.3699174,73.2223964,$387148.81
+580,Philippines,Navotas,91603 Laurel Parkway,14.637321,120.960515,$396822.32
+581,Philippines,Nagrumbuan,5203 Prairie Rose Road,16.8991985,121.7075195,$113400.78
+582,China,Yongdong,96 Pankratz Terrace,28.505315,86.937376,$409616.37
+583,Ireland,Kinsealy-Drinan,9 Mallory Plaza,53.4266145,-6.1644997,$135646.43
+584,Tunisia,Bizerte,88967 Doe Crossing Terrace,37.2746124,9.8627243,$333241.20
+585,China,Jiezi,6530 Union Circle,30.815101,103.560075,$368031.21
+586,Uruguay,Tarariras,82343 Northview Lane,-34.2696756,-57.615575,$131770.97
+587,Philippines,Calape,9110 Russell Junction,9.8411782,123.9121342,$283455.41
+588,Philippines,Santo Niño,7 Brown Circle,14.3839328,121.050126,$233587.46
+589,Macedonia,Ростуша,960 Melrose Park,41.6068468,20.6036698,$151172.05
+590,Russia,Obsharovka,8 Heffernan Center,53.1183502,48.8618445,$76694.06
+591,China,Xianglong,0 La Follette Terrace,40.417358,117.500558,$12121.74
+592,Greece,Palaiópyrgos,35576 Dwight Junction,39.918603,22.6825626,$176926.38
+593,Poland,Wieczfnia Kościelna,63461 Pearson Point,53.1944881,20.4744829,$301294.22
+594,China,Sipeng,6758 Westridge Parkway,41.86624,125.582116,$145813.95
+595,Nepal,Butwāl,365 Quincy Way,27.6873608,83.4323375,$404574.27
+596,China,Anchang,3 Service Street,28.682892,115.858197,$471867.99
+597,China,Jiangwan,4 Forest Dale Plaza,46.585652,123.915392,$129341.46
+598,Peru,Zepita,31 Sycamore Court,-16.4981761,-69.1014935,$471132.72
+599,France,Lyon,5 Darwin Point,43.0429124,1.9038837,$11792.21
+600,Indonesia,Pakuwon,27018 Coleman Drive,-7.2157251,107.901989,$10275.24
+601,Brazil,Brasília,82539 Northport Point,-15.7994139,-47.9222179,$343646.52
+602,Indonesia,Sukamanah,9735 Mosinee Avenue,-6.1177509,106.5024344,$328689.93
+603,Colombia,Dibulla,8346 Independence Avenue,11.2428856,-73.4062342,$202614.79
+604,Indonesia,Golacir,89965 Carberry Plaza,-4.083144,137.179103,$283053.52
+605,South Africa,Alice,49 Utah Place,-25.9308612,28.0172442,$164421.93
+606,Indonesia,Gunung Sugih,87 Muir Road,-4.9942171,105.2077798,$16889.23
+607,Greece,Lófos,2181 Basil Park,40.2445524,22.3806789,$75248.35
+608,Poland,Ciepielów,774 Steensland Court,51.2487152,21.5754229,$119786.82
+609,France,Clermont-Ferrand,6 Comanche Park,45.788378,3.1331436,$359007.05
+610,China,Gushi,0472 Nelson Hill,32.168137,115.654481,$287782.53
+611,Kosovo,Suva Reka,38 Roth Hill,42.362461,20.8319248,$231855.08
+612,Peru,Buenos Aires,2 Grim Parkway,-8.1448805,-79.0517936,$184872.18
+613,France,Cachan,96383 Crowley Way,48.7877067,2.3300777,$429652.66
+614,France,Valenciennes,0 Corben Circle,50.3566891,3.5246977,$112509.62
+615,Panama,Las Minas,58903 Carpenter Plaza,7.8005358,-80.7463852,$35683.78
+616,Philippines,Dugcal,558 Gale Center,13.6261714,123.1606556,$309860.44
+617,Greece,Asíni,588 Vidon Place,37.5097524,23.013113,$432738.22
+618,China,Jinsheng,60 Pennsylvania Drive,31.039415,121.415144,$290948.49
+619,Argentina,Rada Tilly,3 Cherokee Terrace,-45.9328639,-67.5573429,$377041.78
+620,Philippines,Pagsabangan,39 Summerview Court,7.4686205,125.7662248,$61828.76
+621,China,Changmao,345 Daystar Plaza,41.3234558,-74.8058417,$334167.02
+622,China,Shigou,7728 Hanover Center,22.483182,113.916509,$196035.54
+623,Somalia,Qandala,2 Stuart Park,11.4720137,49.8739267,$240894.90
+624,China,Chengguan,56 West Alley,29.654838,91.140552,$185727.81
+625,Portugal,Santo Isidro,52 Eggendart Lane,38.6968603,-8.7359804,$270232.22
+626,Indonesia,Cikijing,446 Arizona Center,-7.0117033,108.3682641,$99686.12
+627,Guatemala,Puerto San José,1 Hintze Pass,13.918464,-90.872553,$94773.93
+628,Indonesia,Bombu,056 Meadow Ridge Junction,-5.0173504,122.8704925,$52755.07
+629,China,Zhangcun,724 Hudson Avenue,43.817071,125.323544,$482237.60
+630,Brazil,Guaçuí,29392 Maryland Hill,-20.7784132,-41.6847632,$66481.00
+631,Canada,Saskatoon,35038 Prentice Lane,52.1527462,-106.5473023,$461366.21
+632,Colombia,Arbeláez,95 Nobel Drive,4.272793,-74.416014,$186748.09
+633,Mongolia,Havirga,2345 Manley Center,45.66667,113.08333,$308464.57
+634,Czech Republic,Blansko,35 Bayside Place,49.3648502,16.6477552,$64614.21
+635,Cambodia,Kampot,3 Independence Junction,10.5942421,104.1640355,$399591.23
+636,China,Baiqi,849 Summerview Court,24.880992,118.71899,$220532.59
+637,Uzbekistan,Sirdaryo,0313 Trailsway Circle,40.3863808,68.7154975,$33816.68
+638,China,Wulijie,51 Warbler Center,25.329044,118.270238,$468425.69
+639,Russia,Nizhnyaya Maktama,96 Coolidge Crossing,54.8603009,52.4223979,$94901.56
+640,Brazil,Campos Belos,6848 Dawn Trail,-13.0331624,-46.7705781,$240894.49
+641,Reunion,Le Port,443 Birchwood Avenue,-20.94333,55.327338,$48185.45
+642,Uruguay,Vergara,5495 Lakewood Point,-32.9481877,-53.9378421,$137180.29
+643,Russia,Kovernino,71065 6th Road,57.1260445,43.8059949,$119412.91
+644,Poland,Łanięta,72 Manufacturers Place,52.3346733,19.2782681,$160249.49
+645,Zambia,Kalabo,3 Morrow Lane,-15.1689352,22.4291464,$11028.33
+646,China,Tieling,232 International Terrace,42.223828,123.726035,$159991.66
+647,Indonesia,Wolofeo,1433 Park Meadow Alley,-8.7334983,121.7508912,$12344.59
+648,Thailand,Khlung,636 Namekagon Park,12.4537943,102.2290442,$473165.32
+649,Italy,Mestre,13 Onsgard Junction,45.469429,12.2400678,$165694.53
+650,Indonesia,Cikendi,3 Colorado Center,-6.4759944,106.3925949,$285001.60
+651,Germany,Berlin,2855 Artisan Street,52.4555293,13.339803,$158564.27
+652,China,Wu’erqihan,01025 Superior Pass,49.571196,121.395538,$459799.66
+653,Brazil,Tucuruí,47 Barnett Terrace,-3.7690648,-49.6755397,$459379.28
+654,Russia,Mineralnye Vody,4529 Hoffman Alley,44.2452219,43.0880662,$74454.28
+655,Libya,Waddān,647 Homewood Avenue,29.1560917,16.1463317,$234860.22
+656,Chile,Lota,8846 Hooker Park,-37.0920575,-73.1545822,$367430.75
+657,China,Hufang,67715 Haas Circle,27.330904,117.044081,$197702.89
+658,Indonesia,Leles,01098 8th Place,-7.1056569,107.9005972,$489919.59
+659,Indonesia,Cilimus Kulon,041 Prentice Road,-6.8546403,107.4293388,$70864.38
+660,China,Hezhi,746 Londonderry Terrace,39.105787,111.862117,$410134.01
+661,Indonesia,Sumuranyar,607 Graedel Avenue,-7.7546,114.0625,$16278.97
+662,Indonesia,Jeding,180 Forest Run Hill,-8.506296,115.27916,$363342.98
+663,Portugal,Abelheira,04 Namekagon Circle,41.3345374,-8.5340895,$209227.19
+664,Russia,Staryye Atagi,663 Eagan Lane,43.1227567,45.7420648,$261237.36
+665,Senegal,Ndofane,8956 Lerdahl Crossing,13.919217,-15.9259271,$469339.15
+666,Montenegro,Mataguži,27 Elgar Circle,42.3248168,19.2801794,$237896.31
+667,Indonesia,Krajan Curahcotok,4477 Almo Place,-7.7169,114.0643,$366678.36
+668,China,Hexing,4 Novick Terrace,-6.2140375,106.8311173,$141164.45
+669,Poland,Nowe Brzesko,428 Pond Place,50.1552166,20.397498,$121901.27
+670,Indonesia,Gununganyartambak Tengah,736 Mesta Junction,-7.3485439,112.7699403,$95364.33
+671,Azerbaijan,Altıağac,85702 Carpenter Crossing,40.8762849,49.0273549,$134152.91
+672,Russia,Neftekamsk,3987 Mesta Point,56.0311512,54.2842859,$67637.97
+673,China,Qiaogu,240 Mallard Point,25.505194,108.484536,$462948.63
+674,China,Sanxi,60527 Warrior Road,37.2425649,111.8568586,$235564.88
+675,Indonesia,Dofa,7766 Thackeray Junction,-1.8213645,125.379537,$60934.39
+676,Sudan,El Bauga,67 Artisan Park,18.26196,33.90812,$496095.76
+677,Russia,Centralniy,1 Sunbrook Trail,51.2235476,37.8775538,$165113.02
+678,Colombia,La Plata,415 Truax Lane,2.389011,-75.8942469,$49369.75
+679,Spain,"Palmas De Gran Canaria, Las",2 Hintze Junction,28.1236316,-15.4287738,$174998.27
+680,Kazakhstan,Aqsay,45 Jay Point,51.1749425,53.0211497,$211799.16
+681,Costa Rica,San Felipe,49772 Sherman Park,19.8022278,-98.7067059,$65184.05
+682,Ecuador,San Lorenzo de Esmeraldas,211 Carey Lane,1.2694769,-78.8439268,$463721.06
+683,France,Orléans,59996 Gateway Park,47.3591366,2.8002946,$25171.33
+684,China,Gechuan,9 Blaine Point,25.748455,116.747009,$383209.81
+685,China,Xiasi,85 Monterey Avenue,32.280756,105.513062,$353526.39
+686,China,Xiayang,6685 Meadow Valley Hill,26.480043,113.778639,$319320.00
+687,Ukraine,Nuyno,94 Montana Alley,51.5363109,24.8942909,$173198.67
+688,Canada,Nipawin,663 Magdeline Terrace,53.36678,-104.00092,$470570.26
+689,Portugal,Carcavelos,17663 Calypso Avenue,38.682014,-9.3291367,$214839.72
+690,Portugal,Azenha,2054 Norway Maple Drive,40.9303255,-8.4956553,$461814.33
+691,Guatemala,Ciudad Tecún Umán,4 Carberry Circle,14.602493,-90.5279231,$310212.00
+692,Poland,Zagórze,390 Twin Pines Parkway,50.3539899,19.4629659,$269279.35
+693,Portugal,Sanfins,2200 Mesta Terrace,40.927135,-8.5178319,$12852.50
+694,Poland,Dębno,0 Bluejay Terrace,52.746302,14.7015401,$120209.21
+695,Portugal,Ribaldeira,52287 Lighthouse Bay Court,39.0427929,-9.193864,$227307.21
+696,Brazil,Canindé,6 Cordelia Alley,-4.3681626,-39.4035876,$389553.47
+697,Sweden,Solna,0519 Darwin Crossing,59.3525393,18.0191452,$331182.55
+698,Indonesia,Karangduren Dua,77305 Mallory Center,-8.0604636,112.6285385,$119516.44
+699,Yemen,Şuwayr,56953 Muir Place,16.1818,43.60986,$93137.64
+700,France,Pau,51689 Londonderry Park,43.2916776,-0.3696612,$442247.38
+701,China,Pengchang,65 Kipling Crossing,30.263346,113.506437,$69691.92
+702,Greece,Kavýli,8 Kings Trail,41.5622714,26.5126402,$160046.48
+703,Uzbekistan,Toshbuloq,27033 Waywood Pass,39.9729825,67.199876,$316746.96
+704,Sweden,Vårby,1 Iowa Road,59.2669111,17.8885705,$246339.86
+705,Indonesia,Banjar Tengahbelayu,8205 International Hill,-3.3179402,114.602959,$369338.94
+706,Czech Republic,Vlkoš,783 Oakridge Avenue,49.395784,17.4190192,$262713.13
+707,China,Puqian,4913 Straubel Plaza,20.023731,110.580002,$28249.05
+708,Philippines,Calidñgan,61581 Artisan Parkway,10.1671173,123.6152351,$22270.06
+709,Indonesia,Bandungsari,78481 Columbus Alley,-7.0890676,108.7987084,$395297.34
+710,Philippines,Taloy,19840 Northview Crossing,14.5514305,121.0092101,$340831.47
+711,Indonesia,Pamarayan,3 Donald Trail,-6.2676999,106.2904635,$26779.10
+712,Denmark,København,63 Graedel Road,55.6717773,12.5605145,$486732.04
+713,Brazil,Resplendor,0152 Golden Leaf Trail,-19.2277915,-41.1602597,$104360.90
+714,Poland,Wydminy,92010 South Crossing,53.9818262,22.0325128,$112498.27
+715,Russia,Surazh,7871 Maple Wood Parkway,53.0175632,32.3912619,$316149.84
+716,China,Aoqiao,85 Dakota Junction,31.364902,108.249509,$430712.19
+717,China,Siheyuan,9 Jana Alley,40.0421073,116.4307166,$176316.73
+718,China,Mudanjiang,6254 Namekagon Trail,44.551653,129.633168,$210762.94
+719,China,Bagou,545 Transport Center,39.974179,116.293727,$213545.77
+720,Israel,Herzliyya,9 Spohn Lane,32.162413,34.844675,$137288.98
+721,Albania,Luftinjë,6763 Scott Way,40.4189904,19.9682943,$358920.87
+722,France,Paris La Défense,987 Welch Road,48.890054,2.2372792,$315513.42
+723,China,Daoqiao,0 Cottonwood Parkway,31.364902,108.249509,$67481.86
+724,Mongolia,Bürenhayrhan,57 Ilene Parkway,46.09237,91.54796,$320600.37
+725,China,Yunyan,68 5th Trail,26.604594,106.724426,$49433.87
+726,Indonesia,Waipukang,7 Menomonie Court,-8.3207,123.4638,$25276.73
+727,Chile,Palena,10 Badeau Park,-43.6167,-71.7999999,$143775.23
+728,Ukraine,Uzyn,9359 Service Circle,49.8247883,30.4053369,$440958.86
+729,France,Chantepie,47537 Portage Circle,48.250574,-1.5029858,$293384.76
+730,Mauritius,Calebasses,89113 Magdeline Crossing,-20.1174305,57.5561071,$436410.69
+731,Indonesia,Bombu,92715 Golf Course Trail,-5.0173504,122.8704925,$438021.36
+732,Sweden,Övertorneå,9 David Place,66.3887667,23.3361439,$273427.16
+733,Venezuela,Cabimas,95964 Mifflin Center,10.3895862,-71.4692843,$249182.95
+734,Tonga,Neiafu,03018 Cherokee Junction,-18.6476779,-173.9836854,$28259.08
+735,Cuba,San Antonio de los Baños,682 Main Parkway,22.8929945,-82.5050529,$51384.97
+736,China,Tanghu,90688 4th Way,39.029567,117.661082,$417947.62
+737,Philippines,Loreto,8 Melvin Park,14.657758,120.9888316,$98869.98
+738,Indonesia,Mojorejo,367 Farmco Court,-7.9017349,112.5632485,$76301.15
+739,Argentina,Famatina,7 Hoffman Terrace,-34.6473284,-58.4184031,$32322.98
+740,Sweden,Västerås,50 Sage Trail,59.6099005,16.5448092,$130256.65
+741,Sweden,Solna,0040 Cherokee Circle,59.3112521,14.496875,$441004.49
+742,Macedonia,Prilep,58 Goodland Terrace,41.3400747,21.5500203,$481422.28
+743,Portugal,Vila Maior,35899 Cordelia Terrace,41.0062832,-8.4822972,$449741.17
+744,Serbia,Radojevo,7302 Eastlawn Center,45.7140258,20.7713965,$139971.74
+745,Indonesia,Fuan,5518 Blue Bill Park Circle,5.4196539,100.330856,$41645.57
+746,Kazakhstan,Georgīevka,72 Esch Lane,52.7572749,78.2041704,$45099.47
+747,China,Dingshu,92942 Eggendart Trail,31.224028,119.687019,$153849.50
+748,Indonesia,Bacem,298 Anthes Lane,-8.0061188,112.1132142,$236111.84
+749,French Polynesia,Afareaitu,40224 Little Fleur Court,-17.5495741,-149.7905619,$264687.64
+750,South Africa,Germiston,5465 Magdeline Pass,-26.2922169,28.205089,$481106.80
+751,China,Tuncheng,98054 Onsgard Circle,19.371561,110.104886,$461177.22
+752,Philippines,Biao,1716 Merry Parkway,7.1473706,125.4889603,$144947.35
+753,France,Nancy,086 Schiller Place,48.689836,6.17445,$198861.06
+754,China,Zhongben,317 Harbort Trail,24.983953,101.527027,$12999.02
+755,China,Linxi,78803 Northport Circle,43.61812,118.05545,$91463.51
+756,Indonesia,Karangtengah,09 Golf View Center,-6.8008183,107.1781769,$123714.81
+757,Finland,Siilinjärvi,747 Walton Court,63.071925,27.6617536,$362208.00
+758,Sweden,Angered,7737 Magdeline Pass,57.7694738,12.0110298,$13121.42
+759,Japan,Tanuma,436 Helena Lane,34.8456388,138.255437,$9716.53
+760,Belarus,Kamyanyuki,1 Delaware Point,52.5595501,23.8049715,$257546.33
+761,China,Qingzhou,07 Delaware Lane,36.684789,118.479654,$359564.21
+762,Brazil,Cianorte,88 Pearson Point,-23.701721,-52.6600232,$19996.12
+763,Indonesia,Pakapasan Ilir,02552 Glendale Court,-7.056066,108.4780523,$224944.39
+764,Czech Republic,Benešov nad Ploučnicí,56 Dovetail Place,50.7451251,14.3184521,$449238.07
+765,Cuba,Vertientes,8 Summit Parkway,21.2635582,-78.1507423,$417881.74
+766,United States,Duluth,6786 Cherokee Hill,34.0028786,-84.1446376,$417240.36
+767,Czech Republic,Dvůr Králové nad Labem,85 Butternut Point,50.4317202,15.8140269,$39645.16
+768,Poland,Przemków,3466 Sommers Circle,51.5021976,15.8075614,$416367.09
+769,Russia,Novozybkov,4 2nd Hill,52.53379,31.929235,$418289.59
+770,Philippines,Padang,940 Tony Parkway,14.2512158,121.0499837,$399166.95
+771,Brazil,Paraíba do Sul,9028 Grover Court,-22.1588749,-43.2904739,$45836.89
+772,China,Fengyang,74729 Duke Parkway,32.874735,117.531622,$462620.87
+773,China,Anle,08397 Marcy Road,23.2462521,113.0030017,$386152.90
+774,Brazil,Cacequi,447 Kedzie Alley,-29.8801552,-54.8265622,$367459.29
+775,Bulgaria,Vidin,53828 Spohn Pass,44.0086458,22.9355752,$409150.37
+776,Russia,Saint Petersburg,01524 Roxbury Park,60.0456385,30.3403569,$104288.35
+777,Indonesia,Gupakan,1 Golf Center,-7.6309189,110.1899844,$145449.04
+778,Poland,Mogilany,93518 Butterfield Park,49.9478668,19.8866771,$71556.55
+779,Senegal,Waoundé,547 Northview Parkway,15.2699767,-12.8658649,$339253.05
+780,Morocco,Al Hoceïma,0049 Hazelcrest Plaza,35.2445589,-3.9317468,$268604.95
+781,China,Xieshui,420 Dapin Crossing,33.001096,106.91786,$68890.78
+782,Panama,Jaqué,452 Hazelcrest Road,7.5164282,-78.1607186,$251203.45
+783,China,Xuebu,41 Merry Drive,31.717564,119.382381,$10985.77
+784,Brazil,Vassouras,07567 Buell Lane,-22.4028163,-43.599128,$36476.65
+785,Indonesia,Bojongsari,460 Michigan Center,-6.3991308,106.7411559,$295096.33
+786,China,Dabu,10290 Corben Point,24.347782,116.695195,$430829.29
+787,Japan,Kashima,73 Milwaukee Parkway,37.1845893,136.9002781,$489034.22
+788,China,Tangtuzhui,608 Brown Way,21.470022,110.541691,$180269.28
+789,France,Bollène,9 Del Mar Drive,45.137411,3.812874,$76791.64
+790,Syria,Ţafas,16 Upham Terrace,32.7324624,36.0621579,$264353.85
+791,China,Zhuanshui,9274 North Place,23.992676,115.703598,$405246.85
+792,Albania,Fier,8 Jenna Park,40.727504,19.5627596,$320762.90
+793,Poland,Świeradów-Zdrój,0322 Starling Crossing,50.9060529,15.3368765,$249721.90
+794,Peru,Viraco,995 Barnett Center,-15.66758,-72.534439,$480710.88
+795,Indonesia,Krajan Kidul Rojopolo,2 Summer Ridge Park,-8.1356,113.3257,$415480.08
+796,Thailand,Chang Klang,304 Hoard Alley,18.7744983,98.9989307,$50696.60
+797,Serbia,Medveđa,65 Prairie Rose Place,42.8414484,21.5766407,$347300.25
+798,Indonesia,Cikujang,57055 Village Green Court,-6.6889038,107.6185727,$202824.03
+799,Bangladesh,Nāgarpur,149 Victoria Point,24.0576707,89.8762377,$426340.95
+800,Malaysia,Alor Setar,4372 Meadow Valley Pass,6.1282298,100.3919033,$41867.89
+801,China,Tongyu,7300 Sauthoff Trail,44.81291,123.088238,$289811.04
+802,Albania,Bubullimë,7139 Oakridge Hill,40.8103508,19.6460758,$238009.85
+803,China,Wanghu,7580 Northland Pass,30.661419,116.244678,$153344.02
+804,Indonesia,Pasirjaya,3684 Ridgeview Plaza,-6.1788812,107.5209304,$433885.00
+805,Yemen,Ash Shawātī,67 Fairview Crossing,16.78314,43.81265,$349194.97
+806,Argentina,Gobernador Costa,0220 Transport Drive,-34.6503449,-58.5581402,$320750.65
+807,China,Huimin,45282 Maple Plaza,37.489877,117.509921,$318859.67
+808,Indonesia,Teluk Pinang,73577 Aberg Junction,-6.6817255,106.851763,$441332.55
+809,Indonesia,Leran Kulon,5608 Basil Junction,-6.9262046,112.1474925,$376327.24
+810,Germany,Osnabrück,26 Kedzie Plaza,52.2415583,8.0495294,$487934.18
+811,Greece,Loúros,7 Lake View Street,39.162045,20.7509566,$421471.13
+812,Portugal,São Julião do Tojal,5 Hoffman Lane,38.8426524,-9.1289108,$424166.13
+813,Japan,Hadano,5055 Gateway Circle,35.4114708,139.1499529,$155579.58
+814,Vietnam,Liên Chiểu,057 Lindbergh Hill,16.0717704,108.1503823,$190526.64
+815,China,Jinshiqiao,486 Bellgrove Park,40.6238989,122.5200228,$364810.89
+816,United Kingdom,London,2998 Ilene Street,51.5136143,-0.1365486,$27695.67
+817,China,Jieshui,43 Columbus Point,22.816884,115.830376,$50323.42
+818,Poland,Ostaszewo,5733 Katie Way,54.2207765,18.9709477,$57023.44
+819,Brazil,Brasília de Minas,3 Macpherson Crossing,-16.2382608,-44.4370606,$283580.06
+820,China,Changsha,6 Riverside Crossing,28.228209,112.938814,$39309.78
+821,Indonesia,Banjar Delodrurung,32 Basil Alley,-8.5003,115.0188,$64574.67
+822,Indonesia,Soe,25 Nevada Crossing,-9.8596373,124.2754988,$435808.85
+823,Russia,Anuchino,370 Ronald Regan Trail,43.9676803,133.0547021,$422011.88
+824,Japan,Komoro,88360 Mcbride Crossing,37.0657211,136.7827153,$277641.63
+825,Brazil,Esperança,5 Wayridge Place,-6.980092,-35.8934136,$268017.64
+826,Estonia,Mustvee,2067 Stuart Place,58.8484094,26.9399664,$250289.34
+827,Kazakhstan,Arkalyk,15 Fairfield Park,50.2496386,66.9140468,$133061.88
+828,Belarus,Haradok,6799 Grover Center,55.4618616,29.9874438,$487852.86
+829,Portugal,Ribeiro,17 Thackeray Parkway,41.2166819,-8.0597042,$458517.37
+830,Iran,Eyvān,58672 Fulton Alley,33.8297993,46.3073161,$490192.57
+831,China,Xiasha,22948 Emmet Park,30.310011,120.348422,$484165.37
+832,China,Hanjiaji,412 Meadow Vale Hill,29.117096,110.479191,$327947.93
+833,Indonesia,Depok,5871 Hoepker Crossing,-6.4024844,106.7942405,$45594.05
+834,Sweden,Stockholm,26620 Dixon Park,47.0203676,-68.1435063,$463799.99
+835,Sweden,Norrköping,45 Onsgard Park,58.5704706,16.2518896,$246598.98
+836,Indonesia,Pawitan,0961 Kedzie Place,-7.3619457,107.9968408,$105763.58
+837,Indonesia,Oelaba,2864 Daystar Way,-10.7540132,122.9104995,$360406.51
+838,France,Creil,289 Moland Circle,49.243003,2.510652,$422739.55
+839,Japan,Hisai,6509 Anthes Drive,34.6689265,136.4689157,$134591.30
+840,Belarus,Pryvol’ny,6781 Saint Paul Terrace,53.7966603,27.7949868,$406369.09
+841,Sweden,Arboga,2 Northridge Drive,59.4547192,15.7718467,$347671.75
+842,Poland,Zebrzydowice,86 Huxley Hill,49.8545281,18.6057328,$357800.17
+843,Germany,Dillenburg,4 Marquette Way,50.7218455,8.3073813,$175210.31
+844,China,Daqiao,6382 Holy Cross Lane,36.7821,117.032171,$33591.81
+845,France,Nantes,18 Riverside Drive,47.2550409,-1.5401497,$429115.16
+846,China,Aizhai,2 Springview Terrace,28.3285373,109.6029048,$172170.83
+847,Mozambique,Chimoio,842 Rusk Junction,-19.1054879,33.4607744,$45505.37
+848,Greece,Dióni,578 Browning Pass,38.020906,23.9325441,$244530.48
+849,China,Aozai,232 Loftsgordon Crossing,23.791187,112.299103,$417942.12
+850,China,Longyuanba,07771 Superior Road,24.937517,114.455815,$104436.14
+851,Croatia,Piškorevci,64 Scott Road,45.2767109,18.3876045,$472676.33
+852,Portugal,Rio de Moinhos,6321 Kings Plaza,39.4753881,-8.243037,$213038.38
+853,China,Hebu,152 Kim Park,27.098536,114.972769,$406935.07
+854,Brazil,Guaxupé,83668 Melby Circle,-21.3054884,-46.7084932,$407817.94
+855,Armenia,Artsvaberd,00 Fairfield Way,40.8440444,45.4714491,$298030.29
+856,Indonesia,Nglojo,181 Forest Dale Court,-6.7612368,111.6273187,$147665.57
+857,Iran,Sepīdān,30 Ludington Circle,30.0450571,52.2762322,$434577.69
+858,Ireland,Farranacoush,92 Drewry Park,51.876873,-8.5171384,$428266.32
+859,Belarus,Buda-Kashalyova,432 Delladonna Road,52.7201592,30.569225,$8390.23
+860,Thailand,Ban Phan Don,3 Corscot Alley,17.1390992,102.9715346,$126001.85
+861,Haiti,Mirebalais,5933 Hudson Court,18.8350125,-72.1031057,$322552.87
+862,China,Liaonan,59798 Anthes Junction,29.299402,115.980074,$243207.25
+863,Germany,Cottbus,67 Havey Circle,51.7941895,14.3056705,$115838.03
+864,Brazil,Itaqui,6011 Lunder Center,-29.1294007,-56.5481122,$495411.27
+865,Thailand,Nong Khai,2 Northwestern Plaza,17.8895907,102.579531,$484743.36
+866,Greece,Samothráki,3 Starling Pass,40.4476834,25.5917918,$490799.92
+867,Haiti,Saint-Louis du Sud,116 Ludington Court,18.2618642,-73.54837,$39576.99
+868,Indonesia,Kototujuh,3568 Tomscot Crossing,-0.6000092,100.8564355,$231649.33
+869,Mexico,Buenavista,74 Blue Bill Park Alley,19.6267726,-99.2993504,$239663.27
+870,China,Zhouhe,6 1st Lane,31.613609,115.066889,$12587.06
+871,China,Wulan,7752 Summerview Court,36.929749,98.480195,$174893.05
+872,China,Tantu,2 Eagan Way,43.83179,125.291414,$67271.74
+873,China,Chongkan,90 Golf Course Drive,29.4315861,106.912251,$29004.08
+874,Philippines,Victoria,5 Crowley Alley,14.5346437,121.0133007,$341396.20
+875,France,Paris 16,8232 Heath Parkway,43.4945737,5.8978018,$104296.05
+876,China,Dadong,8 Golden Leaf Lane,41.805137,123.4699481,$138103.29
+877,Brazil,Sacramento,31 Homewood Park,-19.8502345,-47.3706554,$210178.02
+878,China,Laxiong,34 Fieldstone Point,25.045532,101.528068,$171566.49
+879,Japan,Sasaguri,2245 Waxwing Street,33.6232699,130.5263203,$121068.78
+880,Russia,Novotroitskaya,1932 Burning Wood Street,45.2981711,41.5285717,$58340.61
+881,Ecuador,Loja,2739 Dorton Parkway,-4.0078909,-79.2112769,$324139.80
+882,China,Jianshan,61 Monterey Center,46.64635,131.158416,$335645.68
+883,Canada,Lac du Bonnet,2499 Golf Street,50.2536,-96.06116,$303797.22
+884,China,Baishi,6 Burning Wood Terrace,26.641315,100.222545,$48102.92
+885,France,Sarlat-la-Canéda,79812 Merchant Point,44.8855006,1.2172257,$456448.78
+886,Czech Republic,Zlaté Hory,2997 Moland Drive,50.2637942,17.3960222,$376372.62
+887,Canada,Gravelbourg,5 Luster Parkway,49.8756758,-106.5573172,$210455.72
+888,Sweden,Skillingaryd,02 Armistice Parkway,57.4357357,13.9788932,$398651.28
+889,Ukraine,Boromlya,18656 Memorial Street,50.6157447,34.9855215,$446153.17
+890,Indonesia,Jeong,6360 Lukken Circle,-6.4086821,106.7241166,$372273.08
+891,Indonesia,Ubajami,62 Huxley Terrace,-10.5182,121.7895,$398903.95
+892,Philippines,Lila,30 Dexter Drive,9.600306,124.105576,$442824.80
+893,Tanzania,Madimba,904 Helena Court,-10.4,40.333333,$227057.86
+894,Russia,Parizh,9967 Clyde Gallagher Alley,53.3027609,60.115236,$374122.57
+895,Mexico,Morelos,19625 Gulseth Circle,18.6813049,-99.1013498,$412735.78
+896,Syria,Al Ḩajar al Aswad,2905 Wayridge Center,33.4644365,36.3023941,$248926.30
+897,Sweden,Göteborg,968 2nd Avenue,57.6597922,12.0140077,$438792.17
+898,Poland,Wola Rębkowska,4036 Paget Pass,51.8925608,21.4872815,$316331.94
+899,Philippines,Bacnar,2 Oriole Drive,15.884783,120.341507,$315621.21
+900,China,Beitai,9 Susan Point,21.481291,109.120161,$20729.17
+901,China,Caihua,6274 American Center,31.298877,121.395941,$14815.45
+902,Falkland Islands,Stanley,9 Reinke Pass,-51.6977129,-57.8516627,$294891.01
+903,France,Perpignan,2 Alpine Hill,42.6962642,2.8797149,$130011.37
+904,Thailand,Plaeng Yao,037 Texas Plaza,13.5820144,101.2818304,$104913.17
+905,Poland,Gniechowice,05 Parkside Terrace,50.98804,16.83363,$136142.33
+906,China,Dongtou,4876 Bayside Court,27.836154,121.157249,$75679.79
+907,China,Huaqiao,97749 Holy Cross Place,24.9372186,118.6422409,$227323.36
+908,Philippines,Ponong,555 Kensington Road,10.3080476,124.8136246,$419518.84
+909,Bulgaria,Zavet,0 High Crossing Way,43.7633364,26.6950125,$492857.73
+910,China,Geji,32719 Tony Road,32.387233,81.145433,$458313.93
+911,Portugal,Conceição da Abóboda,73 Johnson Drive,38.7280454,-9.3225944,$237527.27
+912,Philippines,Cigaras,5 Judy Drive,14.2226543,121.4213333,$493344.02
+913,Indonesia,Gerelayang,8960 Hollow Ridge Junction,-6.8527,115.2624,$99848.58
+914,Portugal,Armamar,29 Linden Trail,41.1086264,-7.6901721,$348381.13
+915,Philippines,Caracal,90 Quincy Trail,8.12722,122.845,$335821.96
+916,Japan,Nonoichi,08 Kinsman Hill,33.8941622,133.1395202,$169707.74
+917,China,Zhoutou,046 Schiller Point,29.86548,116.328879,$482736.96
+918,China,Xindi,5908 Lawn Parkway,22.6680599,113.2327987,$304993.37
+919,Russia,Gorbatov,455 Carpenter Court,56.1276639,43.0729987,$209329.69
+920,Dominican Republic,Rincón,64989 Canary Lane,19.2278803,-69.7880454,$386627.50
+921,Greece,Stírion,77192 Main Park,38.4,22.71667,$83183.83
+922,Indonesia,Bente,34416 Mayfield Hill,-1.955673,121.119499,$62397.12
+923,China,Yangsi,454 Pierstorff Place,31.161067,121.493463,$473506.56
+924,China,Pandi,7 Kennedy Pass,27.508898,119.582263,$292576.36
+925,Canada,Fredericton,97060 Fordem Drive,46.0765073,-66.7299108,$378618.03
+926,Poland,Lubin,6 Westend Street,52.924544,19.092523,$170892.02
+927,China,Maoming,3748 Fieldstone Alley,21.662991,110.925439,$44624.15
+928,Gambia,Abuko,28079 Clove Court,13.3913889,-16.6525,$109490.81
+929,Philippines,Masinloc,3 Sycamore Road,15.537073,119.950207,$347963.03
+930,China,Caicun,66 Delaware Alley,25.714796,100.193584,$204509.59
+931,Finland,Vilppula,74 Lunder Plaza,62.4693629,25.8771151,$188345.57
+932,Egypt,Port Said,09471 Duke Road,31.2652893,32.3018661,$214940.17
+933,Ukraine,Drahovo,4 Eggendart Lane,48.23821,23.5457018,$59722.59
+934,Iran,Nūr,426 Buell Place,36.5750373,52.026838,$230116.84
+935,China,Huangling,8 New Castle Drive,35.579427,109.262961,$393492.49
+936,Spain,Sant Cugat Del Valles,435 Moose Court,41.4904044,2.0776887,$22848.16
+937,Russia,Pereyaslovskaya,1 Morrow Drive,45.8404226,39.023038,$424994.28
+938,Indonesia,Anyar,57 Hagan Circle,-6.0924606,105.9112424,$120107.97
+939,Japan,Ōtawara,7142 Lukken Hill,36.9351637,139.9854087,$391628.21
+940,Ukraine,Verbivka,0 Mandrake Junction,49.4931107,36.8206064,$96762.04
+941,Greece,Khóra,8 Forest Run Terrace,37.9854094,23.7419512,$304070.88
+942,Indonesia,Karanganyar,57 Caliangt Street,-7.6387228,111.0460407,$135538.20
+943,Australia,Sydney,280 Hermina Terrace,-33.863927,151.201887,$55653.37
+944,Malaysia,Pulau Pinang,90 Derek Drive,5.3523231,100.3573891,$344208.06
+945,Russia,Borgustanskaya,0 Moose Parkway,44.054356,42.528294,$73855.07
+946,Brazil,São Bernardo do Campo,0043 Sheridan Road,-23.6898429,-46.5648481,$416896.13
+947,Mongolia,Haylaastay,8 Kensington Center,46.9,113.41667,$488389.06
+948,Indonesia,Cakungsari,30 Lake View Drive,-7.4536,108.6423,$313865.70
+949,China,Barkol,2812 Westerfield Court,43.598763,93.016624,$287915.69
+950,Ecuador,Naranjito,52 Sunnyside Lane,-2.176347,-79.4366324,$75679.69
+951,Pakistan,Alpūrai,71 Buhler Place,34.9196569,72.6325857,$228774.05
+952,Venezuela,Sinamaica,98 Mayfield Center,11.0839714,-71.8556507,$37163.82
+953,Croatia,Punat,884 Fieldstone Hill,45.020739,14.6315962,$98090.04
+954,Bangladesh,Jhingergācha,95 Waubesa Center,23.11134,89.09061,$413047.61
+955,Denmark,København,553 Gulseth Plaza,44.351935,-87.8445954,$423590.01
+956,Indonesia,Blokdesa Situgede,8 Hooker Road,-6.5504395,106.7441048,$64863.54
+957,Indonesia,Oenopu,2163 Vermont Court,-6.2315975,106.8213934,$294525.82
+958,Peru,Pataypampa,01 Hansons Junction,-14.16568,-72.658867,$193824.34
+959,Indonesia,Gasri,5 Elmside Crossing,-4.2631706,104.5269308,$370608.94
+960,Sweden,Sundsvall,809 Stone Corner Drive,62.4070944,17.2494041,$366426.18
+961,Japan,Ōgaki,15163 Gale Park,35.0235689,135.971704,$356683.26
+962,Philippines,Baliuag,63 Northridge Lane,14.955476,120.8868617,$453401.48
+963,Colombia,Villavicencio,1541 Colorado Junction,4.0416578,-73.5829689,$412277.09
+964,France,Vagney,62 Ronald Regan Plaza,48.0080981,6.7166698,$31900.92
+965,Canada,L'Île-Perrot,13762 Chive Court,45.4235609,-73.9319061,$241068.39
+966,Indonesia,Tabanan,9319 Hansons Junction,-8.4595561,115.0465991,$12036.94
+967,China,Chixi,27970 Briar Crest Court,30.169665,121.266579,$200734.92
+968,China,Dongcheng,43 Gerald Junction,39.928353,116.416357,$116270.43
+969,China,Shijiazhai,8933 Eggendart Road,38.042805,114.514893,$336049.62
+970,Chile,Teno,09888 Bowman Point,-34.8702993,-71.1664033,$61525.85
+971,Portugal,Monte da Pedra,95 Sycamore Terrace,39.3641607,-7.7461418,$370417.57
+972,Croatia,Brezovica,4 Saint Paul Way,45.8618299,17.5621055,$35342.58
+973,Estonia,Maardu,2 Bashford Parkway,59.4687696,24.9801867,$253563.40
+974,Senegal,Polel Diaoubé,69077 Forest Run Crossing,15.269889,-13.000917,$299649.41
+975,Indonesia,Cisitu,6894 Chinook Circle,-6.8390238,108.059866,$310886.83
+976,Egypt,Ash Shaykh Zuwayd,12 Browning Junction,30.4231682,31.5654425,$122321.40
+977,Iran,Bastak,01192 Aberg Point,27.198639,54.3666012,$303051.08
+978,Indonesia,Tegalrejo,172 Golden Leaf Crossing,-7.7798092,110.3562018,$133888.68
+979,Tanzania,Kintinku,3801 Grover Point,-5.881878,35.2175944,$12791.45
+980,El Salvador,Apopa,6 Coleman Alley,13.8086742,-89.1801225,$255350.55
+981,Indonesia,Doom,25 Brown Alley,-6.922586,107.6060501,$33037.76
+982,Venezuela,Barrancas,39391 Washington Place,8.7603327,-70.1158113,$450340.82
+983,Indonesia,Pangatikan,7 Green Ridge Place,-7.1824754,108.0272646,$383247.10
+984,Nigeria,Awgu,79457 Delladonna Street,6.0639962,7.4760047,$146580.95
+985,Russia,Krapivna,95 Sullivan Court,53.94204,37.1563793,$426028.57
+986,Croatia,Novi Zagreb,70 Hintze Plaza,45.7705013,15.9679074,$319547.36
+987,China,Beizhakou,19 Comanche Point,38.950239,117.406384,$177075.13
+988,Philippines,Maddela,853 Fulton Place,16.3407314,121.7646503,$153557.54
+989,Japan,Tawaramoto,53 Center Point,40.6086938,140.4880538,$44563.85
+990,Ecuador,Babahoyo,99 Warbler Park,-1.801926,-79.5346459,$205650.21
+991,Indonesia,Rangah,0 Buena Vista Point,-0.223997,111.391098,$320042.23
+992,Colombia,Guachetá,9 Fremont Avenue,5.3794023,-73.6557707,$352411.59
+993,Philippines,Cagwait,5 Kenwood Trail,8.8926971,126.3014034,$200885.02
+994,France,Dammarie-les-Lys,9 Ridge Oak Terrace,48.5228354,2.6377136,$9830.78
+995,Afghanistan,Cool űrhajó,09167 Thompson Junction,34.26545,67.34516,$41111.45
+996,Indonesia,Sumurgung,46058 International Point,-6.8926501,112.0103765,$203995.21
+997,Poland,Węgry,3 Mallard Street,53.048634,20.764371,$298591.85
+998,Colombia,Melgar,2 Beilfuss Crossing,4.203572,-74.643383,$380885.50
+999,South Africa,Laingsburg,6 Chive Junction,-33.2307354,20.5826261,$470190.08
+1000,Portugal,Praia da Vagueira,740 Wayridge Place,40.562696,-8.768226,$421182.07

@@ -1,0 +1,33 @@
+# Prerequisites
+## Window with WSL installed/ Or Linux (WM)
+## docker installed
+## psql (psql  client) installed
+## git installed
+
+########################################################################
+# Open one wsl/Linux terminal
+git clone https://github.com/mvillarrealb/docker-spark-cluster
+cd docker-spark-cluster/
+docker build -t cluster-apache-spark:3.0.2 .
+docker-compose up --scale spark-worker=1
+####################################################################
+# navigate into a browser to http://localhost:9090/
+########################################################################
+# Open another terminal
+ export PGPASSWORD=casa1234
+ psql -U postgres -d postgres -h localhost -p 5432
+
+ create schema spark;
+ create table spark.wc(id bigserial primary key,word text,count integer);
+ # later
+ select * from spark.wc;
+########################################################################
+# Open a different terminal
+cd docker-spark-cluster/
+cp ../DE_1/lesson17/target/lesson17-1.0.0-shaded.jar apps/
+# copy some text lsfiles in data/ dir
+docker exec -it docker-spark-cluster_spark-worker-a_1 bash
+bin/spark-submit --class crystal.SparkJob1 --deploy-mode client --master spark://spark-master:7077 /opt/spark-apps/lesson17-1.0.0-shaded.jar --runner=SparkRunner --inputFile=SparkJob1.java --searchPattern=pipeline
+# or
+ bin/spark-submit --class crystal.SparkJob1 --deploy-mode cluster --master spark://spark-master:7077 /opt/spark-apps/lesson17-1.0.0-shaded.jar --runner=SparkRunner --inputFile=SparkJob1.java --searchPattern=pipeline
+

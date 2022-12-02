@@ -1,0 +1,8 @@
+header
+# Open another terminal
+## psql (psql  client) installed
+cd docker-spark-cluster/
+docker exec -it docker-spark-cluster_spark-worker-a_1 bash
+ create table spark.wc(id bigserial primary key,word text,count integer);
+
+FOOTER
