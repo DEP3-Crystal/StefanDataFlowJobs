@@ -1,0 +1,9 @@
+header
+git clone https://github.com/mvillarrealb/docker-spark-cluster
+## Window with WSL installed/ Or Linux (WM)
+# navigate into a browser to http://localhost:9090/
+ bin/spark-submit --class crystal.SparkJob1 --deploy-mode cluster --master spark://spark-master:7077 /opt/spark-apps/lesson17-1.0.0-shaded.jar --runner=SparkRunner --inputFile=SparkJob1.java --searchPattern=pipeline
+########################################################################
+
+docker build -t cluster-apache-spark:3.0.2 .
+FOOTER

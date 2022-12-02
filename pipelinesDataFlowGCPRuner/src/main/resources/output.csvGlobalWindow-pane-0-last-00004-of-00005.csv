@@ -1,0 +1,8 @@
+header
+########################################################################
+ export PGPASSWORD=casa1234
+bin/spark-submit --class crystal.SparkJob1 --deploy-mode client --master spark://spark-master:7077 /opt/spark-apps/lesson17-1.0.0-shaded.jar --runner=SparkRunner --inputFile=SparkJob1.java --searchPattern=pipeline
+cp ../DE_1/lesson17/target/lesson17-1.0.0-shaded.jar apps/
+ # later
+########################################################################
+FOOTER

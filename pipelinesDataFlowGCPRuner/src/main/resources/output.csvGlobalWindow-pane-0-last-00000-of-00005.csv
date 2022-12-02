@@ -1,0 +1,11 @@
+header
+ psql -U postgres -d postgres -h localhost -p 5432
+# Open one wsl/Linux terminal
+docker-compose up --scale spark-worker=1
+# Prerequisites
+####################################################################
+
+# or
+ select * from spark.wc;
+cd docker-spark-cluster/
+FOOTER

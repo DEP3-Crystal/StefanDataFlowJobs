@@ -1,0 +1,11 @@
+{
+  "description": "An example pipeline that reads messages from PubSub and stores in BigQuery",
+  "name": "Custom PubSub to BigQuery",
+  "parameters": [
+    {
+      "name": "inputTopic",
+      "helpText": "The input PubSub topic to read from",
+      "label": "Input PubSub topic"
+    }
+  ]
+}

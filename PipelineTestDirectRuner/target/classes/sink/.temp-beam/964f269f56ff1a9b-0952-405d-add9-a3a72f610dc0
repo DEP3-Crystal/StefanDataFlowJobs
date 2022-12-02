@@ -1,0 +1,35 @@
+sessionId, userId, movieId, movieName, tag, timestamp
+1174, 547, 103449, Passion (2012), dvd, 2013-09-02T20:05:22.000Z
+1173, 547, 103372, "Heat, toplist13, 2013-11-05T10:02:30.000Z
+990, 547, 37741, Capote (2005), toplist05, 2013-09-12T16:58:14.000Z
+1184, 547, 107141, Saving Mr. Banks (2013), toplist13, 2013-12-13T20:16:58.000Z
+1158, 547, 97673, 56 Up (2012), toplist13, 2013-11-05T10:03:38.000Z
+1183, 547, 106920, Her (2013), toplist13, 2013-12-10T12:13:18.000Z
+1170, 547, 102194, Mud (2012), toplist13, 2013-12-10T12:17:40.000Z
+100, 176, 104841, Gravity (2013), sexist, 2013-11-10T23:43:04.000Z
+1182, 547, 106916, American Hustle (2013), toplist13, 2013-12-10T12:14:06.000Z
+1179, 547, 105504, Captain Phillips (2013), toplist13, 2013-12-05T17:44:16.000Z
+1161, 547, 97923, Flight (2012), toplist12, 2012-12-27T21:15:18.000Z
+1151, 547, 96610, Looper (2012), dvd, 2013-02-26T19:43:46.000Z
+1146, 547, 95449, Magic Mike (2012), toplist12, 2012-12-31T20:56:07.000Z
+1166, 547, 99149, "Misérables, toplist12, 2012-12-23T20:14:44.000Z
+42, 132, 6683, Fire (1996), bollywood, 2013-05-07T12:28:33.000Z
+96, 176, 5445, Minority Report (2002), Tom Cruise, 2013-09-05T18:09:13.000Z
+1165, 547, 99114, Django Unchained (2012), toplist12, 2013-01-07T12:56:46.000Z
+40, 132, 4189, "Greatest Story Ever Told, jesus, 2013-05-07T12:29:09.000Z
+1168, 547, 101525, "Place Beyond the Pines, toplist12, 2013-12-05T17:44:48.000Z
+1169, 547, 101895, 42 (2013), toplist13, 2013-11-05T10:03:56.000Z
+1177, 547, 105197, Nebraska (2013), toplist13, 2013-12-10T12:15:13.000Z
+43, 132, 6986, Ben-Hur: A Tale of the Christ (1925), jesus, 2013-05-07T12:29:09.000Z
+991, 547, 38304, No Direction Home: Bob Dylan (2005), toplist05, 2013-09-12T16:59:36.000Z
+1181, 547, 106766, Inside Llewyn Davis (2013), toplist13, 2013-12-10T12:20:20.000Z
+1148, 547, 95761, Killer Joe (2011), dvd, 2013-12-18T15:27:26.000Z
+993, 547, 40629, Pride & Prejudice (2005), toplist05, 2013-09-12T17:00:40.000Z
+1154, 547, 96811, End of Watch (2012), toplist12, 2012-12-27T21:13:37.000Z
+1155, 547, 96832, Holy Motors (2012), dvd, 2013-05-22T15:44:43.000Z
+1156, 547, 96832, Holy Motors (2012), toplist12, 2012-12-25T09:49:41.000Z
+1167, 547, 101285, Spring Breakers (2013), getdvd, 2013-12-11T08:07:33.000Z
+1149, 547, 96417, Premium Rush (2012), dvd, 2013-05-05T07:23:56.000Z
+41, 132, 4612, Jesus of Montreal (Jésus de Montréal) (1989), jesus, 2013-05-07T12:29:09.000Z
+994, 547, 40819, Walk the Line (2005), toplist05, 2013-09-12T16:58:48.000Z
+1171, 547, 102469, Wish You Were Here (2012), getdvd, 2013-12-15T10:35:48.000Z

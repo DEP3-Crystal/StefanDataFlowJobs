@@ -1,0 +1,174 @@
+sessionId, userId, movieId, movieName, tag, timestamp
+930, 547, 3671, Blazing Saddles (1974), holes70s, 2012-07-21T11:10:29.000Z
+999, 547, 42217, Late Spring (Banshun) (1949), sightsound, 2012-08-03T11:28:02.000Z
+552, 423, 1080, Monty Python's Life of Brian (1979), Monty Python, 2012-11-27T21:57:47.000Z
+931, 547, 3679, "Decline of Western Civilization, holes80s, 2012-07-21T11:13:55.000Z
+1275, 599, 66203, He's Just Not That Into You (2009), honest, 2012-08-05T08:15:59.000Z
+553, 423, 1089, Reservoir Dogs (1992), nonlinear, 2012-11-27T21:57:20.000Z
+554, 423, 1089, Reservoir Dogs (1992), organized crime, 2012-11-27T21:57:16.000Z
+555, 423, 1089, Reservoir Dogs (1992), Quentin Tarantino, 2012-11-27T21:57:18.000Z
+868, 547, 215, Before Sunrise (1995), holes90s, 2012-07-21T11:23:19.000Z
+548, 423, 1079, "Fish Called Wanda, dark comedy, 2012-11-24T02:09:38.000Z
+549, 423, 1079, "Fish Called Wanda, dark humor, 2012-11-24T02:09:42.000Z
+550, 423, 1079, "Fish Called Wanda, John Cleese, 2012-11-24T02:09:31.000Z
+551, 423, 1079, "Fish Called Wanda, quirky, 2012-11-24T02:09:45.000Z
+543, 423, 247, Heavenly Creatures (1994), stylized, 2012-11-24T01:51:28.000Z
+544, 423, 247, Heavenly Creatures (1994), surreal, 2012-11-24T01:51:23.000Z
+545, 423, 247, Heavenly Creatures (1994), surrealism, 2012-11-24T01:51:22.000Z
+546, 423, 247, Heavenly Creatures (1994), visceral, 2012-11-24T01:51:18.000Z
+1157, 547, 97304, Argo (2012), toplist12, 2012-11-16T16:20:38.000Z
+1013, 547, 48394, "Pan's Labyrinth (Laberinto del fauno, holes00s, 2012-07-21T11:29:47.000Z
+882, 547, 1172, Cinema Paradiso (Nuovo cinema Paradiso) (1989), holes80s, 2012-07-21T11:14:16.000Z
+585, 423, 31658, Howl's Moving Castle (Hauru no ugoku shiro) (2004), Studio Ghibli, 2012-11-27T21:58:35.000Z
+933, 547, 3789, "Pawnbroker, holes60s, 2012-07-21T11:35:21.000Z
+883, 547, 1197, "Princess Bride, holes80s, 2012-07-21T11:16:39.000Z
+870, 547, 306, Three Colors: Red (Trois couleurs: Rouge) (1994), holes90s, 2012-07-21T11:20:39.000Z
+709, 480, 78349, Exam (2009), claustrophobic, 2012-06-10T04:43:56.000Z
+710, 480, 78349, Exam (2009), experiment, 2012-06-10T04:43:47.000Z
+711, 480, 78349, Exam (2009), group psychology, 2012-06-10T04:43:30.000Z
+712, 480, 78349, Exam (2009), psychological, 2012-06-10T04:43:37.000Z
+871, 547, 319, Shallow Grave (1994), holes90s, 2012-07-21T11:19:50.000Z
+982, 547, 25805, "Atalante, sightsound, 2012-08-03T11:27:25.000Z
+872, 547, 364, "Lion King, holes90s, 2012-07-21T11:22:35.000Z
+977, 547, 8645, "Maria Full of Grace (Maria, holes00s, 2012-07-21T11:29:18.000Z
+934, 547, 3811, Breaker Morant (1980), holes80s, 2012-07-21T11:15:24.000Z
+884, 547, 1209, Once Upon a Time in the West (C'era una volta il West) (1968), holes60s, 2012-10-27T12:08:54.000Z
+885, 547, 1211, "Wings of Desire (Himmel über Berlin, holes80s, 2012-07-21T11:14:26.000Z
+556, 423, 1219, Psycho (1960), Alfred Hitchcock, 2012-11-27T21:57:24.000Z
+557, 423, 1219, Psycho (1960), psychology, 2012-11-27T21:57:26.000Z
+886, 547, 1232, Stalker (1979), sightsound, 2012-08-03T11:33:52.000Z
+932, 547, 3742, Battleship Potemkin (1925), sightsound, 2012-08-03T11:26:40.000Z
+558, 423, 1256, Duck Soup (1933), Marx Brothers, 2012-11-27T21:58:38.000Z
+889, 547, 1272, Patton (1970), holes70s, 2012-07-21T11:08:07.000Z
+890, 547, 1273, Down by Law (1986), holes80s, 2012-07-21T11:14:37.000Z
+887, 547, 1245, Miller's Crossing (1990), holes90s, 2012-07-21T11:20:04.000Z
+966, 547, 7438, Kill Bill: Vol. 2 (2004), holes00s, 2012-07-21T11:31:33.000Z
+97, 176, 7458, Troy (2004), Brad Pitt, 2012-06-30T16:54:05.000Z
+1009, 547, 47274, Murmur of the Heart (Le souffle au coeur) (1971), holes70s, 2012-07-21T11:10:07.000Z
+907, 547, 2677, Buena Vista Social Club (1999), holes90s, 2012-07-21T11:21:40.000Z
+1131, 547, 89260, Project Nim (2011), toplist11, 2012-02-18T02:56:33.000Z
+1086, 547, 68954, Up (2009), holes00s, 2012-07-21T11:30:38.000Z
+587, 423, 55820, No Country for Old Men (2007), coen brothers, 2012-11-27T21:57:43.000Z
+1137, 547, 90376, We Need to Talk About Kevin (2011), toplist11, 2012-01-25T17:11:38.000Z
+908, 547, 2730, Barry Lyndon (1975), getdvd, 2012-10-18T09:08:28.000Z
+909, 547, 2730, Barry Lyndon (1975), holes70s, 2012-07-21T11:10:20.000Z
+98, 176, 8972, National Treasure (2004), Nicolas Cage, 2012-06-30T16:52:58.000Z
+571, 423, 6287, Anger Management (2003), Adam Sandler, 2012-11-28T01:06:10.000Z
+589, 423, 67997, In the Loop (2009), british, 2012-11-27T21:58:18.000Z
+590, 423, 67997, In the Loop (2009), politics, 2012-11-27T21:58:20.000Z
+591, 423, 67997, In the Loop (2009), satire, 2012-11-27T21:58:15.000Z
+1145, 547, 95135, Your Sister's Sister (2011), toplist12, 2012-12-08T17:11:22.000Z
+1159, 547, 97752, Cloud Atlas (2012), toplist12, 2012-12-08T17:10:35.000Z
+911, 547, 2857, Yellow Submarine (1968), holes60s, 2012-07-21T11:35:05.000Z
+952, 547, 6229, Two-Lane Blacktop (1971), holes70s, 2012-07-21T11:11:53.000Z
+1138, 547, 90439, Margin Call (2011), toplist11, 2012-03-23T13:02:53.000Z
+992, 547, 39183, Brokeback Mountain (2005), toplist05, 2012-04-14T00:28:06.000Z
+895, 547, 1572, "Contempt (Mépris, sightsound, 2012-08-03T11:31:43.000Z
+953, 547, 6433, "Man with the Movie Camera, sightsound, 2012-08-03T11:25:08.000Z
+967, 547, 7792, "Parallax View, holes70s, 2012-07-21T11:08:23.000Z
+547, 423, 745, Wallace & Gromit: A Close Shave (1995), animation, 2012-11-27T21:59:06.000Z
+945, 547, 5198, "Long Good Friday, holes80s, 2012-07-21T11:15:14.000Z
+874, 547, 588, Aladdin (1992), holes90s, 2012-07-21T11:22:49.000Z
+584, 423, 30745, Gozu (Gokudô kyôfu dai-gekijô: Gozu) (2003), Takashi Miike, 2012-11-27T21:58:31.000Z
+559, 423, 1258, "Shining, cult film, 2012-11-27T21:57:13.000Z
+560, 423, 1258, "Shining, psychology, 2012-11-27T21:57:10.000Z
+869, 547, 293, Léon: The Professional (a.k.a. The Professional) (Léon) (1994), holes90s, 2012-07-21T11:21:02.000Z
+563, 423, 2529, Planet of the Apes (1968), post-apocalyptic, 2012-11-27T21:57:30.000Z
+564, 423, 2529, Planet of the Apes (1968), twist ending, 2012-11-27T21:57:33.000Z
+561, 423, 1729, Jackie Brown (1997), dark comedy, 2012-11-27T21:58:05.000Z
+1160, 547, 97921, Silver Linings Playbook (2012), toplist12, 2012-12-08T17:10:59.000Z
+1152, 547, 96610, Looper (2012), toplist12, 2012-12-08T17:10:11.000Z
+878, 547, 914, My Fair Lady (1964), holes60s, 2012-07-21T11:35:35.000Z
+1162, 547, 97938, Life of Pi (2012), toplist12, 2012-12-08T17:11:34.000Z
+955, 547, 6643, Tokyo Story (Tôkyô monogatari) (1953), sightsound, 2012-08-03T11:23:50.000Z
+94, 152, 52319, Inglorious Bastards (Quel maledetto treno blindato) (1978), World War II, 2012-05-02T01:00:22.000Z
+1153, 547, 96728, "Master, toplist12, 2012-12-16T00:46:48.000Z
+1134, 547, 89759, "Separation, toplist11, 2012-01-25T17:10:28.000Z
+947, 547, 5464, Road to Perdition (2002), holes00s, 2012-07-21T11:31:21.000Z
+1150, 547, 96588, Pitch Perfect (2012), toplist12, 2012-12-16T00:51:38.000Z
+936, 547, 4103, Empire of the Sun (1987), holes80s, 2012-07-21T11:17:07.000Z
+956, 547, 6783, "Rules of the Game, sightsound, 2012-08-03T11:24:11.000Z
+705, 480, 70286, District 9 (2009), aliens, 2012-06-10T04:48:46.000Z
+706, 480, 70286, District 9 (2009), humor, 2012-06-10T04:48:49.000Z
+707, 480, 70286, District 9 (2009), sci-fi, 2012-06-10T04:48:53.000Z
+708, 480, 70286, District 9 (2009), violence, 2012-06-10T04:48:55.000Z
+572, 423, 6713, Millennium Actress (Sennen joyû) (2001), Satoshi Kon, 2012-11-27T21:58:01.000Z
+898, 547, 1957, Chariots of Fire (1981), holes80s, 2012-07-21T11:14:54.000Z
+1164, 547, 98961, Zero Dark Thirty (2012), toplist12, 2012-12-19T23:11:23.000Z
+986, 547, 26151, Au Hasard Balthazar (1966), sightsound, 2012-08-03T11:28:25.000Z
+588, 423, 58559, "Dark Knight, Batman, 2012-11-27T21:58:47.000Z
+862, 546, 39421, After School Special (a.k.a. Barely Legal) (2003), Nudity (Topless), 2012-04-10T04:47:16.000Z
+863, 546, 39421, After School Special (a.k.a. Barely Legal) (2003), porn, 2012-04-10T04:47:13.000Z
+1147, 547, 95558, Beasts of the Southern Wild (2012), toplist12, 2012-09-21T09:05:33.000Z
+985, 547, 26150, Andrei Rublev (Andrey Rublyov) (1969), sightsound, 2012-08-03T11:33:37.000Z
+1140, 547, 90866, Hugo (2011), toplist11, 2012-01-25T17:11:27.000Z
+958, 547, 6874, Kill Bill: Vol. 1 (2003), holes00s, 2012-07-21T11:33:18.000Z
+1024, 547, 52281, Grindhouse (2007), holes00s, 2012-07-21T11:27:39.000Z
+937, 547, 4262, Scarface (1983), holes80s, 2012-07-21T11:15:44.000Z
+570, 423, 5662, "Wrong Guy, Dave Foley, 2012-11-27T21:56:09.000Z
+574, 423, 27592, Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002), stylized, 2012-11-27T21:57:00.000Z
+575, 423, 27592, Sympathy for Mr. Vengeance (Boksuneun naui geot) (2002), violent, 2012-11-27T21:56:51.000Z
+1139, 547, 90531, Shame (2011), toplist11, 2012-01-25T17:11:54.000Z
+961, 547, 6985, "Passion of Joan of Arc, sightsound, 2012-08-03T11:25:28.000Z
+938, 547, 4326, Mississippi Burning (1988), holes80s, 2012-07-21T11:15:52.000Z
+1020, 547, 50068, Letters from Iwo Jima (2006), holes00s, 2012-07-21T11:26:58.000Z
+939, 547, 4327, "Magnificent Seven, holes60s, 2012-07-21T11:36:41.000Z
+565, 423, 3030, Yojimbo (1961), atmospheric, 2012-11-27T21:56:36.000Z
+218, 257, 3030, Yojimbo (1961), akira kurosawa, 2012-05-27T07:43:53.000Z
+219, 257, 3030, Yojimbo (1961), black comedy, 2012-05-27T07:43:42.000Z
+568, 423, 5618, Spirited Away (Sen to Chihiro no kamikakushi) (2001), atmospheric, 2012-11-27T21:57:08.000Z
+569, 423, 5618, Spirited Away (Sen to Chihiro no kamikakushi) (2001), surreal, 2012-11-27T21:57:04.000Z
+998, 547, 41997, Munich (2005), holes00s, 2012-07-21T11:28:22.000Z
+1163, 547, 98154, Lincoln (2012), toplist12, 2012-12-08T17:10:27.000Z
+99, 176, 69640, Public Enemies (2009), Johnny Depp, 2012-06-29T02:14:14.000Z
+948, 547, 5747, Gallipoli (1981), holes80s, 2012-07-21T11:14:03.000Z
+1123, 547, 83976, "Trip, toplist11, 2012-01-31T17:54:54.000Z
+987, 547, 26366, Harlan County U.S.A. (1976), holes70s, 2012-07-21T11:10:54.000Z
+919, 547, 3111, Places in the Heart (1984), holes80s, 2012-07-21T11:18:05.000Z
+949, 547, 5791, Frida (2002), holes00s, 2012-07-21T11:27:11.000Z
+940, 547, 4437, Suspiria (1977), holes70s, 2012-07-21T11:11:38.000Z
+920, 547, 3246, Malcolm X (1992), holes90s, 2012-07-21T11:19:28.000Z
+586, 423, 52885, Paprika (Papurika) (2006), anime, 2012-11-27T21:57:37.000Z
+576, 423, 27773, Old Boy (2003), depressing, 2012-11-24T01:56:30.000Z
+577, 423, 27773, Old Boy (2003), disturbing, 2012-11-24T01:55:57.000Z
+578, 423, 27773, Old Boy (2003), hallucinatory, 2012-11-24T01:55:45.000Z
+579, 423, 27773, Old Boy (2003), paranoid, 2012-11-24T01:56:36.000Z
+580, 423, 27773, Old Boy (2003), revenge, 2012-11-24T01:56:33.000Z
+581, 423, 27773, Old Boy (2003), stylized, 2012-11-24T01:56:35.000Z
+582, 423, 27773, Old Boy (2003), twist ending, 2012-11-24T01:56:40.000Z
+583, 423, 27773, Old Boy (2003), vengeance, 2012-11-24T01:56:44.000Z
+970, 547, 8128, Au revoir les enfants (1987), holes80s, 2012-07-21T11:13:38.000Z
+573, 423, 8188, Sansho the Bailiff (Sanshô dayû) (1954), elegant, 2012-11-24T01:48:55.000Z
+972, 547, 8195, "Avventura, sightsound, 2012-08-03T11:30:20.000Z
+971, 547, 8154, "Dolce Vita, holes60s, 2012-07-21T11:37:00.000Z
+921, 547, 3384, "Taking of Pelham One Two Three, holes70s, 2012-07-21T11:07:10.000Z
+973, 547, 8207, "Day of the Jackal, holes70s, 2012-07-21T11:08:55.000Z
+901, 547, 2028, Saving Private Ryan (1998), holes90s, 2012-07-21T11:22:25.000Z
+1143, 547, 94959, Moonrise Kingdom (2012), toplist12, 2012-07-14T19:42:22.000Z
+1046, 547, 55363, "Assassination of Jesse James by the Coward Robert Ford, holes00s, 2012-07-21T11:28:00.000Z
+713, 480, 94777, Men in Black III (M.III.B.) (M.I.B.³) (2012), aliens, 2012-06-10T04:54:30.000Z
+714, 480, 94777, Men in Black III (M.III.B.) (M.I.B.³) (2012), franchise, 2012-06-10T04:54:10.000Z
+715, 480, 94777, Men in Black III (M.III.B.) (M.I.B.³) (2012), funny, 2012-06-10T04:54:00.000Z
+716, 480, 94777, Men in Black III (M.III.B.) (M.I.B.³) (2012), time travel, 2012-06-10T04:54:19.000Z
+902, 547, 2109, "Jerk, holes70s, 2012-07-21T11:11:12.000Z
+1142, 547, 94931, Take This Waltz (2011), toplist12, 2012-12-16T00:52:07.000Z
+903, 547, 2178, Frenzy (1972), holes70s, 2012-07-21T11:09:26.000Z
+704, 480, 8369, Mindhunters (2004), who done it, 2012-06-12T04:39:33.000Z
+923, 547, 3498, Midnight Express (1978), holes70s, 2012-07-21T11:08:34.000Z
+1047, 547, 55442, Persepolis (2007), holes00s, 2012-07-21T11:26:12.000Z
+1044, 547, 55280, Lars and the Real Girl (2007), holes00s, 2012-07-21T11:30:01.000Z
+562, 423, 2288, "Thing, disturbing, 2012-11-27T21:56:40.000Z
+540, 423, 111, Taxi Driver (1976), cult film, 2012-11-27T21:56:45.000Z
+541, 423, 111, Taxi Driver (1976), Martin Scorsese, 2012-11-27T21:56:48.000Z
+542, 423, 111, Taxi Driver (1976), social commentary, 2012-11-27T21:56:42.000Z
+1065, 547, 61236, Waltz with Bashir (Vals im Bashir) (2008), holes00s, 2012-07-21T11:26:21.000Z
+1067, 547, 61240, Let the Right One In (Låt den rätte komma in) (2008), holes00s, 2012-07-21T11:29:39.000Z
+860, 546, 7155, Calendar Girls (2003), Nudity (Topless - Notable), 2012-04-10T04:49:34.000Z
+861, 546, 7155, Calendar Girls (2003), Nudity (Topless), 2012-04-10T04:49:30.000Z
+922, 547, 3415, "Mirror, sightsound, 2012-08-03T11:29:17.000Z
+941, 547, 4712, "Wild Child, holes70s, 2012-07-21T11:10:42.000Z
+566, 423, 3546, What Ever Happened to Baby Jane? (1962), insanity, 2012-11-24T01:52:42.000Z
+567, 423, 3546, What Ever Happened to Baby Jane? (1962), psychological thriller, 2012-11-24T01:52:35.000Z
+959, 547, 6981, "Ordet (Word, sightsound, 2012-08-03T11:32:34.000Z
+943, 547, 4928, That Obscure Object of Desire (Cet obscur objet du désir) (1977), holes70s, 2012-07-21T11:09:55.000Z
+906, 547, 2330, Hands on a Hard Body (1996), holes90s, 2012-07-21T11:19:09.000Z
